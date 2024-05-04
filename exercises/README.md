@@ -3,7 +3,7 @@
 
 | week | Exercise / Cvičenie (notebooks)                      | Projekt                                      |
 | ----:| ---------------------------------------------------: | :--------------------------------------------|
-| 1.   | [Organizacia predmetu, introduction to deployment in ML](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-01) | Hľadanie partnera, zadanie mini-projektov|
+| 1.   | [Organizacia predmetu, introduction to deployment in ML](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-01) | Hľadanie partnera, prehľad mini-projektov|
 | 2.   | [Ensemble learning and boosting](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-02)               |  |
 | 3.   | [Unsupervised learning](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-03) | Finalizácia výberu tém |
 | 4.   | [Recommendation with ML](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-04)                |  |
