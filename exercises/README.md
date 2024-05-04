@@ -3,7 +3,7 @@
 
 | week | Exercise / Cvičenie (notebooks)                      | Projekt                                      |
 | ----:| ---------------------------------------------------: | :--------------------------------------------|
-| 1.   | [Organizacia predmetu, introduction to ML deployment](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-01) | Hľadanie partnera, zadanie projektov|
+| 1.   | [Organizacia predmetu, introduction to deploymentin ML](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-01) | Hľadanie partnera, zadanie projektov|
 | 2.   | [Ensemble learning and boosting](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-02)               |  |
 | 3.   | [Unsupervised learning](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-03) | Finalizácia výberu tém |
 | 4.   | [Recommendation with ML](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-04)                |  |
@@ -13,7 +13,7 @@
 | 8.   | [Recommendation with DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-08)                           |  |
 | 9.   | [Recommendation with DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-09)                           |  |
 | 10.  | [Privacy-preserving machine learning](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-10) | Odovzdanie 2. projektu |
-| 11.  | [Differential privacy](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-11)      |  |
+| 11.  | [Differential privacy in machine learning](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-11)      |  |
 | 12.  | [Finalizácia](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-12)            | Odovzdanie 3. projektu |
 |      |                                                      |                                              |
 
