@@ -7,7 +7,7 @@
 | 2.   | [Ensemble learning and boosting](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-02)               |  |
 | 3.   | [Unsupervised learning](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-03) | Finalizácia výberu tém |
 | 4.   | [Recommendation with Machine Learning](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-04)                |  |
-| 5.   | [Fundamentals of generative AI and DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-05)                          |  |
+| 5.   | [Fundamentals of generative AI and Deep Learning](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-05)                          |  |
 | 6.   | [Recommendation with NLP and Deep Learning](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-06)                   | Odovzdanie 1. mini-projektu |
 | 7.   | [Recommendation with DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-07)                           |  |
 | 8.   | [Recommendation with DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-08)                           |  |
