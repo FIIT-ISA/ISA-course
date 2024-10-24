@@ -1,0 +1,13 @@
+jupyterlab
+notebook
+pandas
+seaborn
+matplotlib
+scikit-learn
+datasets
+transformers
+transformers[torch]
+torch
+xgboost
+verstack
+ucimlrepo

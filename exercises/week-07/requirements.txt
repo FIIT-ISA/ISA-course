@@ -1,0 +1,12 @@
+jupyterlab
+notebook
+pandas
+tensorflow
+matplotlib
+scikit-learn
+numpy
+chart_studio
+plotly
+unidecode
+chart-studio
+unidecode
