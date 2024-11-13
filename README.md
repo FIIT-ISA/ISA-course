@@ -14,7 +14,7 @@ By completing the course, students will gain knowledge about the development and
 
 <p align="center">
     <img height=250px src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*-u3RLECZtdFPpbJe.png">
-    <img height=350px src="https://media.licdn.com/dms/image/v2/D4D22AQEmb4ngrp7SvA/feedshare-shrink_800/feedshare-shrink_800/0/1719842839879?e=1730937600&v=beta&t=wYRj3cOFvnvm-WNBfGXXc_PxTo6C9B4g-OHjSwWonbM">
+    <img height=350px src="https://media.licdn.com/dms/image/v2/D4D22AQHSlafGU6gxHQ/feedshare-shrink_800/feedshare-shrink_800/0/1700469902958?e=1734566400&v=beta&t=M68to3Knfg7tb6SlHUfKXofZPBz1O3A0xnvGOJqAJaQ">
 </p>
 
 ### Recommended literature / Odporúčaná literatúra
