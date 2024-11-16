@@ -15,8 +15,8 @@ By completing the course, students will gain knowledge about the development and
 ### MS Teams
 
 <p align="center">
-    <img height=250px src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*-u3RLECZtdFPpbJe.png">
-    <img height=350px src="https://giangzuzana.github.io/images/isa-by-ai.jpg">
+    <img height=300px src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*-u3RLECZtdFPpbJe.png">
+    <img height=300px src="https://giangzuzana.github.io/images/isa-by-ai.jpg">
 </p>
 
 ### Foundation of generative AI
