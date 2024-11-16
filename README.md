@@ -19,7 +19,7 @@ By completing the course, students will gain knowledge about the development and
     <img height=300px src="https://giangzuzana.github.io/images/isa-by-ai.jpg">
 </p>
 
-### Foundation of generative AI and Applied Machine Learning
+### Foundation of Generative AI and Applied Machine Learning
 - Data (collection, storage, analysis, recommendation) and generative foundation of models
 - Responnsible AI, production-ready application design
 - Practical use cases 
