@@ -16,8 +16,13 @@ By completing the course, students will gain knowledge about the development and
 
 <p align="center">
     <img height=250px src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*-u3RLECZtdFPpbJe.png">
-    <img height=350px src="https://media.licdn.com/dms/image/v2/D4D22AQHSlafGU6gxHQ/feedshare-shrink_800/feedshare-shrink_800/0/1700469902958?e=1734566400&v=beta&t=M68to3Knfg7tb6SlHUfKXofZPBz1O3A0xnvGOJqAJaQ">
+    <img height=350px src="https://giangzuzana.github.io/images/isa-by-ai.jpg">
 </p>
+
+### Foundation of generative AI
+- Data (collection, storage, analysis, recommendation) and generative foundation of models
+- Responnsible AI, production-ready application design
+- Practical use cases 
 
 ### Recommended literature / Odporúčaná literatúra
 
