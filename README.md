@@ -21,7 +21,7 @@ By completing the course, students will gain knowledge about the development and
 
 ### Foundation of Generative AI and Applied Machine Learning
 - Data (collection, storage, analysis, recommendation) and generative foundation of models
-- Responnsible AI, production-ready application design
+- Responsible AI, production-ready application design
 - Practical use cases 
 
 ### Recommended literature / Odporúčaná literatúra
