@@ -3,11 +3,11 @@
 
 | week | Exercise / Cvičenie (notebooks)                      | Projekt                                      |
 | ----:| ---------------------------------------------------: | :--------------------------------------------|
-| 1.   | [Introduction to deployment in ML](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-01) | Hľadanie partnera (dvojica), prehľad mini-projektov|
-| 2.   | [Ensemble learning and boosting](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-02)               |  |
-| 3.   | [Unsupervised learning](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-03) | Finalizácia výberu tém |
+| 1.   | [Introduction to ML Deployment](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-01) | Hľadanie partnera (dvojica), prehľad mini-projektov|
+| 2.   | [Ensemble Learning and Boosting](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-02)               |  |
+| 3.   | [Unsupervised Learning](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-03) | Finalizácia výberu tém |
 | 4.   | [Recommendation with ML](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-04)                |  |
-| 5.   | [Fundamentals of generative AI and DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-05)                          |  |
+| 5.   | [Foundation of Generative AI and DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-05)                          |  |
 | 6.   | [NLP and Transformer](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-06)                   | Odovzdanie 1. mini-projektu |
 | 7.   | [Attention and Embedding](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-07)                           |  |
 | 8.   | [Recommendation with DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-08)                           |  |
