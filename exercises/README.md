@@ -20,7 +20,7 @@
 ## Important Notice
 
 > Project report submission is scheduled for:
-> week 5  (1. mini-project),
+> week 06 (1. mini-project),
 > week 10 (2. mini-project),
 > week 12 (3. mini-project).
 >
