@@ -16,7 +16,7 @@
 - Model Subclassing (Object-Oriented Programming)
 
 
-# Refresh from the FIIT-STU [IAU_B](https://github.com/FIIT-IAU/IAU-course) course
+# Refresh from the [IAU_B](https://github.com/FIIT-IAU/IAU-course) course
 
 ### Deep learning architectures 
 - [Convolutional Neural Network (CNN) - TensorFlow and Keras - Lung Cancer](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-10/IAU_01_CNN-tf-keras_Lung-cancer.ipynb)
