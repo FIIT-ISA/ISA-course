@@ -1,5 +1,4 @@
 ## Intelligent System Applications / Aplikácie inteligentných systémov
-### Exercises
 
 | week | Exercise              | Project          |
 | ----:| ---------------------------------------------------: | :--------------------------------------------|
