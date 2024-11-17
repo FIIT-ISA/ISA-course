@@ -1,4 +1,6 @@
-# Intelligent System Applications
+#  Intelligent System Applications
+- Aplikácie inteligentných systémov
+  
 ## Lectures - STU GSuite access
 |         | [Course Organization]()                                     | [Organizácia predmetu]()   |
 | :-------| ----------------------------------------------------------: | :---------------------------------------------------------- |
