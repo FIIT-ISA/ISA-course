@@ -17,11 +17,21 @@
 | 12.  | [Finalizácia](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-12)            | Odovzdanie 3. mini-projektu |
 |      |                                                      |                                              |
 
-## Upozornenie
+## Important Notice
 
-> Odovzdávanie správy projektov sa realizuje v 5. týždni (1. projekt), 10. týždni (2. projekt) a 12. týždni (3. projekt) semestra na cvičení. 
-> 
-> Dvojica svojmu cvičiacemu odprezentuje výsledky projektov. Následne správu elektronicky odovzdá jeden člen z dvojice do systému AIS do **xx.10.202x 23:59** (1. mini-projekt), **xx.11.202x 23:59** (2. mini-projekt) a **xx.12.202x 23:59** (3. mini-projekt).
-> 
-> V prípade nedodržania termínu na odovzdanie jednotlivých fáz projektu do systému AIS bude možné danú fázu odovzdať o týždeň neskôr t.j. do **xx.11.202x 23:59** (1. mini-projekt), **xx.11.202x 23:59** (2. mini-projekt) a **xx.12.202x 23:59** (3. mini-projekt) s **50% penalizáciou**. 
-> Neskoršie odovzdanie nebude možné. Neodovzdanie niektorej z fáz projektu bude mať za následok neudelenie zápočtu.
+> Project report submission is scheduled for:
+> Week 5  (1. mini-project),
+> Week 10 (2. mini-project),
+> Week 12 (3. mini-project).
+>
+> The pair will present their results to the instructor in a Jupyter Notebook. One member of the pair will then electronically submit the report to the AIS system by:
+> **xx.10.202x 23:59** (1. mini-project),
+> **xx.11.202x 23:59** (2. mini-project), 
+> **xx.12.202x 23:59** (2. mini-projekt).
+>
+> If the submission deadline for the project phases and activities in AIS is missed, late submission is possible one week later, i.e., by:
+> **xx.10.202x 23:59** (1. mini-project),
+> **xx.11.202x 23:59** (2. mini-project), 
+> **xx.12.202x 23:59** (2. mini-projekt)
+> with a **50% penalty**.
+> Later submission will not be accepted. Failure to submit any phase of the project or activities will result in not meeting the prerequisites for the exam (N).
