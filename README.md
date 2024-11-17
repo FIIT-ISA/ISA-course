@@ -1,4 +1,4 @@
-#  Intelligent System Applications
+#  Intelligent System Applications (ISA_I)
 - Aplikácie inteligentných systémov 
 
 ### Foundation of Generative AI and Applied Machine Learning
