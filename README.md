@@ -34,5 +34,5 @@ By completing the course, students will gain knowledge about the development and
 
 - NGUYEN, G., 2022. [Introduction to Data Science](https://elvira.fiit.stuba.sk). The Edition of University Textbooks on Informatics and Information Technologies. Spektrum STU Publishing, ISBN 978-80-227-5193-3. Available at FIIT STU e-library [ ELVIRA ](https://elvira.fiit.stuba.sk/) with AIS access.
 
-### Recommendation notes / Poznámky k odporúčaniam
+### Notes / Poznámky
 Knowledge in the course **[Intelligent Data Analysis (IAU_B) @ FIIT STU](https://github.com/FIIT-IAU/IAU-course)** at the level of a graduate of the Bachelor's study program in Computer Science is assumed.
