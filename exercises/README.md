@@ -14,7 +14,7 @@
 | 9.   | [Collaborative Filtering with DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-09) |  |
 | 10.  | [Privacy-Preserving ML/DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-10)        | Submission to AIS  by **xx.11.202x 23:59** |
 | 11.  | [Differential Privacy in ML/DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-11)   |  |
-| 12.  | [Finalizácia](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-12)                     | Submission to AIS  by **xx.12.202x 23:59** |
+| 12.  | [Finalization](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-12)                     | Submission to AIS  by **xx.12.202x 23:59** |
 |      |                                                      |                                               |
 
 ## Important Notice
