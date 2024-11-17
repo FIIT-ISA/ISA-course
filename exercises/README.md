@@ -3,18 +3,18 @@
 
 | week | Exercise /                       | Project                                      |
 | ----:| ---------------------------------------------------: | :--------------------------------------------|
-| 1.   | [Introduction to ML Deployment](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-01) | Hľadanie partnera (dvojica), prehľad mini-projektov|
+| 1.   | [Introduction to ML Deployment](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-01) | Organization of the exercise, finding a partner for the project|
 | 2.   | [Ensemble Learning and Boosting](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-02)               |  |
-| 3.   | [Unsupervised Learning](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-03) | Finalizácia výberu tém |
+| 3.   | [Unsupervised Learning](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-03) | **Project assignment**  |
 | 4.   | [Recommendation with ML](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-04)                |  |
 | 5.   | [Foundation of Generative AI and DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-05)                          |  |
-| 6.   | [NLP Transformer](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-06)                   | Odovzdanie 1. mini-projektu |
+| 6.   | [NLP Transformer](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-06)                   | Submission to AIS by **xx.10.202x 23:59** |
 | 7.   | [Attention and Embedding](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-07)                           |  |
 | 8.   | [Recommendation with DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-08)                           |  |
 | 9.   | [Collaborative Filtering with DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-09)                           |  |
-| 10.  | [Privacy-Preserving ML/DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-10) | Odovzdanie 2. mini-projektu |
+| 10.  | [Privacy-Preserving ML/DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-10) | Submission to AIS  by **xx.11.202x 23:59** |
 | 11.  | [Differential Privacy in ML/DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-11)      |  |
-| 12.  | [Finalizácia](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-12)            | Odovzdanie 3. mini-projektu |
+| 12.  | [Finalizácia](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-12)            | Submission to AIS  by **xx.12.202x 23:59** |
 |      |                                                      |                                              |
 
 ## Important Notice
