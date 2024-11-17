@@ -16,4 +16,4 @@
 | 10.     | [Privacy-preserving machine learning (PPML)]()              | [PPML: Strojové učenie s ochranou súkromia]()  |  
 | 11.     | [Privacy assurance and data protection in ISA]()            | [ISA: Zabezpečenie súkromia a ochrana údajov]()  |
 | 12.     | [Ethical challenges in AI assisted systems]()               | [Etické výzvy v systémoch s AI asistenciou]()  |
-|         | [Course Exam]()                                             | [Skúška]() |
+|         | [Course Exam](https://docs.google.com/presentation/d/1uYSzuMXdPKY2E75VKB34LK9FQmbLf2gen2fKnwbcR7Q/edit?usp=share_link)                                             | [Skúška](https://docs.google.com/presentation/d/1uYSzuMXdPKY2E75VKB34LK9FQmbLf2gen2fKnwbcR7Q/edit?usp=share_link) |
