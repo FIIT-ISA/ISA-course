@@ -1,5 +1,5 @@
 #  Intelligent System Applications
-### Aplikácie inteligentných systémov 
+- Aplikácie inteligentných systémov 
 
 ### Foundation of Generative AI and Applied Machine Learning
 - Recommender Systems, e-Commerce, e-Monitoring
