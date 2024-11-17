@@ -7,7 +7,7 @@
 | 1.      | [Building intelligent system applications (ISA)]()           | [ISA: Vybudovanie aplikácií inteligentných systémov]()  |
 | 2.      | [Collaborative and content-based filtering]()               | [Kolaboratívne a obsahovo založené filtrovanie]()  |
 | 3.      | [Knowledge-based and hybrid recommendation]()               | [Odporúčanie založené na znalostiach a hybridné odporúčania]()  |
-| 4.      | [Machine learning and deep learning]()                      | [Strojové učenie a hlboké učenie]()  |
+| 4.      | [Foundation of generative AI, ML/DL]()                      | [Strojové učenie a hlboké učenie]()  |
 | 5.      | [Evaluating ISA, their value and impact]()                  | [Hodnotenie aplikácií inteligentných systémov, ich hodnota a dopad]()  |  
 | 6.      | [ISA in cyber-physical systems]()                           | [ISA v kyberneticko-fyzikálnych systémoch]()  |
 | 7.      | [ISA in human-computer interaction systems]()               | [ISA v systémoch s interakciami medzi ľuďmi a počítačom]()  |
