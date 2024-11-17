@@ -20,8 +20,6 @@ https://github.com/FIIT-ISA/ML-in-deployment-image
 ### Python application template for Data Science projects
 - [https://github.com/FIIT-ISA/cookiecutter-data-science](https://github.com/FIIT-ISA/cookiecutter-data-science) 
 
-#### Python docker template for Data Science environments
+### Python docker template for Data Science environments
 - [https://github.com/FIIT-ISA/Dockers-for-DataScience](https://github.com/FIIT-ISA/Dockers-for-DataScience)
-
-#### Docker compose
-TBA asap.
+- Docker compose: TBA asap.
