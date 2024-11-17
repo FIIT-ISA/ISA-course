@@ -1,7 +1,7 @@
 ## Intelligent System Applications / Aplikácie inteligentných systémov
 ### Exercises
 
-| week | Exercise /                       | Project                                      |
+| week | Exercise              | Project          |
 | ----:| ---------------------------------------------------: | :--------------------------------------------|
 | 1.   | [Introduction to ML Deployment](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-01) | Organization of the exercise, finding a partner for the project|
 | 2.   | [Ensemble Learning and Boosting](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-02)               |  |
