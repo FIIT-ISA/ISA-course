@@ -10,7 +10,7 @@
 | 5.   | [Fundamentals of generative AI and DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-05)                          |  |
 | 6.   | [Recommendation with NLP and DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-06)                   | Odovzdanie 1. mini-projektu |
 | 7.   | [Recommendation with DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-07)                           |  |
-| 8.   | [Recommendation with DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-08)                           |  |
+| 8.   | [Attention and Embedding](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-08)                           |  |
 | 9.   | [Recommendation with DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-09)                           |  |
 | 10.  | [Privacy-preserving ML/DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-10) | Odovzdanie 2. mini-projektu |
 | 11.  | [Differential privacy in ML/DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-11)      |  |
