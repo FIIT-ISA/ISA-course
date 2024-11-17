@@ -1,5 +1,5 @@
-# Intelligent System Applications / Aplikácie inteligentných systémov 
-## Lectures / Prednášky - STU GSuite access
+# Intelligent System Applications
+## Lectures - STU GSuite access
 |         | [Course Organization]()                                     | [Organizácia predmetu]()   |
 | :-------| ----------------------------------------------------------: | :---------------------------------------------------------- |
 | 1.      | [Building intelligent system applications (ISA)]()           | [ISA: Vybudovanie aplikácií inteligentných systémov]()  |
