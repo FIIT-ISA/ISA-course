@@ -1,1 +1,1 @@
-# Ensemble learning
+# Ensemble learning and boosting
