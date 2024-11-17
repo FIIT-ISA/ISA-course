@@ -1,7 +1,7 @@
 ## Intelligent System Applications / Aplikácie inteligentných systémov
 ### Exercises / Cvičenia
 
-| week | Exercise / Cvičenie (notebooks)                      | Projekt                                      |
+| week | Exercise / Cvičenie (notebooks)                      | Project                                      |
 | ----:| ---------------------------------------------------: | :--------------------------------------------|
 | 1.   | [Introduction to ML Deployment](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-01) | Hľadanie partnera (dvojica), prehľad mini-projektov|
 | 2.   | [Ensemble Learning and Boosting](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-02)               |  |
@@ -20,9 +20,9 @@
 ## Important Notice
 
 > Project report submission is scheduled for:
-> Week 5  (1. mini-project),
-> Week 10 (2. mini-project),
-> Week 12 (3. mini-project).
+> week 5  (1. mini-project),
+> week 10 (2. mini-project),
+> week 12 (3. mini-project).
 >
 > The pair will present their results to the instructor in a Jupyter Notebook. One member of the pair will then electronically submit the report to the AIS system by:
 > **xx.10.202x 23:59** (1. mini-project),
