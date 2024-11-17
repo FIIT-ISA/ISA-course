@@ -12,6 +12,6 @@
 | 8.      | [Development and deployment of ISA]()                       | [Vývoj a nasadenie aplikácií inteligentných systémov]()  |
 | 9.      | [ML systems: DevOps, DataOps, MLOps and AIOps]()            | [Systémy pre strojové učenie: DevOps, DataOps, MLOps a AIOps]()  |
 | 10.     | [Privacy-preserving machine learning (PPML)]()              | [PPML: Strojové učenie s ochranou súkromia]()  |  
-| 11.     | [Privacy assurance and data protection (PPML)]()            | [PPML: Zabezpečenie súkromia a ochrana údajov]()  |
+| 11.     | [Privacy assurance and data protection in ISA]()            | [ISA: Zabezpečenie súkromia a ochrana údajov]()  |
 | 12.     | [Ethical challenges in AI assisted systems]()               | [Etické výzvy v systémoch s AI asistenciou]()  |
 |         | [Course Exam]()                                             | [Skúška]() |
