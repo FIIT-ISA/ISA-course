@@ -2,7 +2,7 @@
 - Aplikácie inteligentných systémov
   
 ## Lectures - STU GSuite access
-|         | [Course Organization](https://docs.google.com/presentation/d/1ZLghJnD-SkjXg1Rm4N7nwSyrZpS0vycM3fgyxuEbjQQ/edit?usp=share_link)                                     | [Organizácia predmetu](https://docs.google.com/presentation/d/1ZLghJnD-SkjXg1Rm4N7nwSyrZpS0vycM3fgyxuEbjQQ/edit?usp=share_link)   |
+|         | [Course Organization](https://docs.google.com/presentation/d/1ZLghJnD-SkjXg1Rm4N7nwSyrZpS0vycM3fgyxuEbjQQ/present?usp=share_link)                                     | [Organizácia predmetu](https://docs.google.com/presentation/d/1ZLghJnD-SkjXg1Rm4N7nwSyrZpS0vycM3fgyxuEbjQQ/present?usp=share_link)   |
 | :-------| ----------------------------------------------------------: | :---------------------------------------------------------- |
 | 1.      | [Building intelligent system applications (ISA)]()           | [ISA: Vybudovanie aplikácií inteligentných systémov]()  |
 | 2.      | [Collaborative and content-based filtering]()               | [Kolaboratívne a obsahovo založené filtrovanie]()  |
