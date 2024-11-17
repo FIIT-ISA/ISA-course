@@ -8,7 +8,7 @@
 | 3.   | [Unsupervised Learning](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-03) | Finalizácia výberu tém |
 | 4.   | [Recommendation with ML](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-04)                |  |
 | 5.   | [Foundation of Generative AI and DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-05)                          |  |
-| 6.   | [NLP and Transformer](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-06)                   | Odovzdanie 1. mini-projektu |
+| 6.   | [NLP Transformer](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-06)                   | Odovzdanie 1. mini-projektu |
 | 7.   | [Attention and Embedding](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-07)                           |  |
 | 8.   | [Recommendation with DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-08)                           |  |
 | 9.   | [Collaborative Filtering with DL](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-09)                           |  |
