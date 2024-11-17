@@ -3,7 +3,7 @@
 
 | week | Exercise              | Project          |
 | ----:| ---------------------------------------------------: | :--------------------------------------------|
-| 1.   | [Introduction to ML Deployment](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-01)   | Organization of the exercise, finding a partner for the project|
+| 1.   | [Introduction to ML/DL Deployment](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-01)   | Organization of the exercise, finding a partner for the project|
 | 2.   | [Ensemble Learning and Boosting](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-02)  | **Project assignment** |
 | 3.   | [Unsupervised Learning](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-03)           |  |
 | 4.   | [Recommendation with ML](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-04)          |  |
