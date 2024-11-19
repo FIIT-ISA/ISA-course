@@ -1,4 +1,4 @@
-# Fundamentals of Generative AI and Deep Learning
+# Foundation of Generative AI and Deep Learning
 
 ### Deep learning architectures by examples
 - [Convolutional Neural Network (CNN): Image classification](https://github.com/FIIT-IAU/IAU-course/tree/main/exercises/week-10)
