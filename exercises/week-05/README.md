@@ -1,8 +1,8 @@
 # Foundation of Generative AI and Deep Learning
 
 ### Deep learning architectures by examples
-- [Convolutional Neural Network (CNN): Image classification](https://github.com/FIIT-IAU/IAU-course/tree/main/exercises/week-10)
-- [Recurrent Neural Network (RNN): Time-series forecasting](https://github.com/FIIT-IAU/IAU-course/tree/main/exercises/week-11)
+- [Convolutional Neural Network (CNN)](https://github.com/FIIT-IAU/IAU-course/tree/main/exercises/week-10)
+- [Recurrent Neural Network (RNN)](https://github.com/FIIT-IAU/IAU-course/tree/main/exercises/week-11)
 - [Encoder-Decoder: Image denoising using Autoencoder (AED)](ISA_AED_image-denoising.ipynb)
 - [Generative Adversarial Network (GAN): Image style transfer](https://github.com/FIIT-ISA/CycleGAN)
 
