@@ -19,11 +19,8 @@
 # Refresh from the [IAU_B](https://github.com/FIIT-IAU/IAU-course) course
 
 ### Deep learning architectures 
-- [Convolutional Neural Network (CNN) - TensorFlow and Keras - Lung Cancer](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-10/IAU_01_CNN-tf-keras_Lung-cancer.ipynb)
-- [Convolutional Neural Network (CNN) - Pytorch - XRay](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-10/IAU_02_CNN_pytorch_XRay-classification.ipynb)
-
-- [Recurrent Neural Network (RNN) - TensorFlow and Keras](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-11/IAU_01_RNN-tf-keras.ipynb)
-- [Recurrent Neural Network (RNN) - Pytorch](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-11/IAU_02_RNN_pytorch.ipynb)
+- [Convolutional Neural Network (CNN): Image classification](https://github.com/FIIT-IAU/IAU-course/tree/main/exercises/week-10)
+- [Recurrent Neural Network (RNN): Time-series forecasting](https://github.com/FIIT-IAU/IAU-course/tree/main/exercises/week-11)
 
 ### Weights & Biases (WandB)
 - [Using Weights & Biases (WandB) for Log Training](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-11/IAU_wandb_README.md)
