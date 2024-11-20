@@ -1,9 +1,9 @@
 
 # Deployment of ML/DL models by examples
 
-- https://github.com/FIIT-ISA/ML-in-deployment-numbers
-- https://github.com/FIIT-ISA/ML-in-deployment-text 
-- https://github.com/FIIT-ISA/ML-in-deployment-image 
+- https://github.com/FIIT-ISA/ISA-ML-in-deployment-numbers
+- https://github.com/FIIT-ISA/ISA-ML-in-deployment-text 
+- https://github.com/FIIT-ISA/ISA-ML-in-deployment-image 
 
 ### Python application template for Data Science projects
 - [https://github.com/FIIT-ISA/cookiecutter-data-science](https://github.com/FIIT-ISA/cookiecutter-data-science) 
