@@ -1,5 +1,8 @@
 #  Intelligent System Applications
-- Aplikácie inteligentných systémov 
+- Aplikácie inteligentných systémov
+
+Author(s):
+- as a part of the Team project for the course preparation in 2023/2024
 
 | week | Exercise              | Project          |
 | ----:| --------------------------------------------: | :--------------------------------------------|
