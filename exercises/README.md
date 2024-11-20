@@ -2,6 +2,8 @@
 - Aplikácie inteligentných systémov
 - Author(s): a part of the Team project for the course preparation in 2023/2024
 
+## Exercise Harmonogram
+
 | week | Exercise              | Project          |
 | ----:| --------------------------------------------: | :--------------------------------------------|
 | 1.   | [Introduction to ML/DL Deployment](week-01)   | Organization of the exercise, finding a partner for the project|
