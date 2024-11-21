@@ -1,6 +1,6 @@
 #  Intelligent System Applications
 - Aplikácie inteligentných systémov
-- Author(s): a part of the Team project for the course preparation in 2023/2024
+- Author(s): a part of the team work preparation in 2023/2024
 
 ## Exercise Harmonogram
 
