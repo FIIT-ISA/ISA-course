@@ -7,11 +7,11 @@
  
 By completing the course, students will gain knowledge about the development and deployment of real-world intelligent system applications. Through lectures, exercises and projects, students will cover the theory, practical knowledge of **foundation of generative AI** and skills that underpin **applied machine learning** in terms of building **intelligent system applications** with respect to **data protection**. The educational outcomes will provide students with the opportunity to enhance their understanding of machine learning specifics in application domains like e-commerce, monitoring systems, and remote sensing. Working on individual projects will encourage students to come up with their own ideas for implementing intelligent applications in both the **development** and **deployment** phases.
 
-### [Lectures / Prednášky](https://github.com/FIIT-ISA/ISA-course/tree/main/lectures)
+### [Lectures](https://github.com/FIIT-ISA/ISA-course/tree/main/lectures)
 
-### [Exercises / Cvičenia](https://github.com/FIIT-ISA/ISA-course/tree/main/exercises) 
+### [Exercises](https://github.com/FIIT-ISA/ISA-course/tree/main/exercises) 
 
-### [Course conditions / Podmienky na absolvovanie predmetu](https://github.com/FIIT-ISA/ISA-course/blob/main/condition.md)
+### [Course conditions](https://github.com/FIIT-ISA/ISA-course/blob/main/condition.md)
 
 ### MS Teams
 
@@ -25,7 +25,7 @@ By completing the course, students will gain knowledge about the development and
 - Responsible AI, production-ready application design
 - Practical use cases 
 
-### Recommended literature / Odporúčaná literatúra
+### Literature
 
 - HUYEN, C., 2022. [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/). O'Reilly Media, Inc. ISBN 978-1098107963.  
 
@@ -35,5 +35,5 @@ By completing the course, students will gain knowledge about the development and
 
 - NGUYEN, G., 2022. [Introduction to Data Science](https://elvira.fiit.stuba.sk). The Edition of University Textbooks on Informatics and Information Technologies. Spektrum STU Publishing, ISBN 978-80-227-5193-3. Available at FIIT STU e-library [ ELVIRA ](https://elvira.fiit.stuba.sk/) with AIS access.
 
-### Notes / Poznámky
+### Notes
 Knowledge in the course **[Intelligent Data Analysis (IAU_B) @ FIIT STU](https://github.com/FIIT-IAU/IAU-course)** at the level of a graduate of the Bachelor's study program in Computer Science is assumed.
