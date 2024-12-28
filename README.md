@@ -13,7 +13,7 @@ By completing the course, students will gain knowledge about the development and
 
 ### [Course conditions](https://github.com/FIIT-ISA/ISA-course/blob/main/condition.md)
 
-### MS Teams
+### [MS Teams](https://teams.microsoft.com/l/team/19%3AP2FaLj3oPy54-UY2Ha9edoGOSRVRS9DL8fWL62Sgk1w1%40thread.tacv2/conversations?groupId=ffed5e44-c464-4605-a25f-2cf21a91296b&tenantId=25733538-6b16-4aa3-8ed6-297eb79b8e06)
 
 <p align="center">
     <img height=300px src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*-u3RLECZtdFPpbJe.png">
