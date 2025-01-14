@@ -1,4 +1,4 @@
-#  Intelligent System Applications
+#  Intelligent System Applications (ISA_I)
 - Aplikácie inteligentných systémov
 - Author(s): a part of the team work preparation in 2023/2024
 
