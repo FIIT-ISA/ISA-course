@@ -27,12 +27,12 @@
 > week 10 (2. mini-project),
 > week 12 (3. mini-project).
 >
-> The pair will present their results to the instructor in a Jupyter Notebook. One member of the pair will then electronically submit the report to the AIS system by:
+> The pair will present their results to the instructor before deadline. One member of the pair will then electronically submit the report to the AIS system by:
 > **xx.10.202x 23:59** (1. mini-project),
 > **xx.11.202x 23:59** (2. mini-project), 
 > **xx.12.202x 23:59** (3. mini-projekt).
 >
-> If the submission deadline for the project phases and activities in AIS is missed, late submission is possible one week later, i.e., by:
+> If the submission deadline is missed, late submission is possible one week later, i.e., by:
 > **xx.10.202x 23:59** (1. mini-project),
 > **xx.11.202x 23:59** (2. mini-project), 
 > **xx.12.202x 23:59** (3. mini-projekt)
