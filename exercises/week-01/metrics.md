@@ -1,4 +1,4 @@
-# Evaluation Metrics for Domains
+# Evaluation Metrics for Specific Domains
 
 1. Recommender Systems (RecSys)
    - **Precision and Recall:** Measure the relevancy of recommended items. Precision is the fraction of relevant items among the recommended items, while recall is the fraction of relevant items that have been retrieved.
@@ -36,68 +36,68 @@
    - **Precision, Recall, and F1-Score:** For the classification of features or objects within the images, such as identifying deforestation or urbanization patterns.
 
 
-# Evaluation Metrics for Specific Tasks
+# Evaluation Metrics for Specific Tasks (Scope)
 
-## RecSys Scope:
+## Recommender Systems (RecSys) Scope:
 
-1. **Collaborative Filtering in Recommender Systems**
+1. Collaborative Filtering in Recommender Systems
    - **RMSE and MAE:** Evaluate accuracy of predicted ratings against actual ratings.
    - **Precision and Recall at K:** Measure the accuracy and coverage of the top-K recommendations.
 
-2. **Content-Based Filtering in Recommender Systems**
+2. Content-Based Filtering in Recommender Systems
    - **Precision, Recall, and F1-Score:** Assess the performance focusing on the relevancy of content-driven recommendations.
 
-3. **Knowledge-Based to ML/DL in Recommender Systems**
+3. Knowledge-Based to ML/DL in Recommender Systems
    - **Accuracy:** For classification of items into categories based on features.
    - **RMSE and MAE:** For regression tasks such as predicting ratings.
 
-4. **Next Buy Item Prediction in Recommender Systems**
+4. Next Buy Item Prediction in Recommender Systems
    - **Recall@K / Precision@K:** Evaluates whether the next purchased item appears in the top-K suggested items.
    - **Hit Rate:** Measures the accuracy at the individual user level.
 
-5. **Click-to-Rate Prediction in Recommender Systems**
+5. Click-to-Rate Prediction in Recommender Systems
    - **RMSE and MAE:** Evaluate the predictive accuracy of the click-to-rate models.
 
-6. **Trend Modelling in Recommender Systems**
+6. Trend Modelling in Recommender Systems
    - **MAPE (Mean Absolute Percentage Error):** Measures prediction accuracy as a percentage, useful for trends.
    - **RMSE:** Information about typical size of the forecast errors.
 
 
 ## GenAI Scope:
 
-1. **Topic Modeling in Generative AI for Text**
+1. Topic Modeling in Generative AI for Text
    - **Coherence Score:** Measures the semantic similarity between high scoring words in the topic, indicating topic quality.
 
-2. **Named Entity Recognition (NER) in Generative AI for Text**
+2. Named Entity Recognition (NER) in Generative AI for Text
    - **Precision, Recall, and F1-Score:** Specifically adapted for the entity recognition task, measuring exact matches of entity types.
 
-3. **Text Generation with Generative AI**
+3. Text Generation with Generative AI
    - **BLEU and Perplexity:** Evaluates the fluency and relevance of generated text to a reference or set of references.
 
-4. **Text Summarization with Generative AI**
+4. Text Summarization with Generative AI
    - **ROUGE Score:** Evaluates the overlap of n-grams between the generated summary and the reference summaries.
 
-5. **Sound/Music Generation with Generative AI**
+5. Sound/Music Generation with Generative AI
    - **Fréchet Audio Distance:** Similar to FID below, but for audio - measures the distance between distributions of real and generated audio features.
 
-6. **Image Generation with Generative AI**
+6. Image Generation with Generative AI
    - **Inception Score and FID:** Evaluate the diversity and realism of generated images compared to a real dataset.
 
 
 ## E-monitoring, E-health and Remote Sensing Scope:
 
-1. **Anomaly Detection in Network Traffic**
+1. Anomaly Detection in Network Traffic
   - **Precision, Recall, and F1-Score:** For classification problems, especially in imbalanced datasets typical of anomaly detection tasks. Precision measures the accuracy of the positive predictions, Recall measures the coverage of actual positive cases, and F1-Score provides a balance between Precision and Recall.
   - **Area Under the Receiver Operating Characteristic Curve (AUROC):** Evaluates the performance across all classification thresholds, reflects the possibility that the model ranks a random positive example higher than a random negative example.
   - **Area Under the Precision-Recall Curve (AUPRC):** Useful in datasets where one class is much less prevalent than the other (anomaly occurences). Focuses solely on the performance of the positive class.
 
-2. **Heart Rate Monitoring for E-Health**
+2. Heart Rate Monitoring for E-Health
   - **Sensitivity (True Positive Rate) and Specificity (True Negative Rate):** Sensitivity measures the proportion of actual positives correctly identified (detecting a heart anomaly when it exists), Specificity measures the proportion of negatives correctly identified (correctly identifying normal heartbeats).
   - **Accuracy:** Measures the overall correctness of the model in classifying the data.
   - **Precision and Recall:** Useful when more detailed evaluation of the error types (false positives and false negatives) is required.
   - **F1-Score:** Harmonic mean of Precision and Recall, balances the trade-off between Precision and Recall.
 
-3. **Land Use and Land Cover Classification using Remote Sensing**
+3. Land Use and Land Cover Classification using Remote Sensing
   - **Overall Accuracy**: Measures the proportion of correctly classified pixels over the total number of pixels.
   - **Kappa Coefficient**: Measure of accuracy normalized by the imbalance of classes in the data.
   - **Precision, Recall, and F1-Score**: Calculate for each land cover class to understand the model’s strengths and weaknesses in classifying specific types.
