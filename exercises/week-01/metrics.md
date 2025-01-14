@@ -38,7 +38,7 @@
 
 # Evaluation Metrics for Specific Tasks (Scope)
 
-## Recommender Systems (RecSys) Scope:
+## Recommender Systems (RecSys)
 
 1. Collaborative Filtering in Recommender Systems
    - **RMSE and MAE:** Evaluate accuracy of predicted ratings against actual ratings.
@@ -63,7 +63,7 @@
    - **RMSE:** Information about typical size of the forecast errors.
 
 
-## GenAI Scope:
+## GenAI - NLP
 
 1. Topic Modeling in Generative AI for Text
    - **Coherence Score:** Measures the semantic similarity between high scoring words in the topic, indicating topic quality.
@@ -84,7 +84,7 @@
    - **Inception Score and FID:** Evaluate the diversity and realism of generated images compared to a real dataset.
 
 
-## E-monitoring, E-health and Remote Sensing Scope:
+## E-monitoring, E-health and Remote Sensing
 
 1. Anomaly Detection in Network Traffic
   - **Precision, Recall, and F1-Score:** For classification problems, especially in imbalanced datasets typical of anomaly detection tasks. Precision measures the accuracy of the positive predictions, Recall measures the coverage of actual positive cases, and F1-Score provides a balance between Precision and Recall.
