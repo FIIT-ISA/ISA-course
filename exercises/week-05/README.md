@@ -6,11 +6,11 @@
 - [Encoder-Decoder: Image denoising using Autoencoder (AED)](ISA_AED_image-denoising.ipynb)
 - [Generative Adversarial Network (GAN): Image style transfer](https://github.com/FIIT-ISA/CycleGAN)
 
-### [Transfer learning and fine tuning](https://github.com/FIIT-ISA/2023-2024/tree/main/exercises/week-05/transfer%20learning%20and%20fine%20tuning)
+### [Transfer learning and fine tuning](transfer-learning-and-fine-tuning)
 - for TensorFlow
 - for PyTorch
 
-### [Three main ways to build models in Keras](https://github.com/FIIT-ISA/2023-2024/blob/main/exercises/week-05/ISA_Sequential-Functional-OOP.ipynb)
+### [Three main ways to build models in Keras](ISA_Sequential-Functional-OOP.ipynb)
 - Sequential API
 - Functional API
 - Model Subclassing (Object-Oriented Programming)
