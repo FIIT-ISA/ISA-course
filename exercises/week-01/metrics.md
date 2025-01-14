@@ -87,12 +87,17 @@
 ## E-monitoring, E-health and Remote Sensing
 
 1. Anomaly Detection in Network Traffic
-  - **Precision, Recall, and F1-Score:** For classification problems, especially in imbalanced datasets typical of anomaly detection tasks. Precision measures the accuracy of the positive predictions, Recall measures the coverage of actual positive cases, and F1-Score provides a balance between Precision and Recall.
+  - **Precision, Recall, and F1-Score:** For classification problems, especially in imbalanced datasets typical of anomaly detection tasks:
+     - Precision measures the accuracy of the positive predictions,
+     - Recall measures the coverage of actual positive cases,
+     - F1-Score provides a balance between Precision and Recall.
   - **Area Under the Receiver Operating Characteristic Curve (AUROC):** Evaluates the performance across all classification thresholds, reflects the possibility that the model ranks a random positive example higher than a random negative example.
   - **Area Under the Precision-Recall Curve (AUPRC):** Useful in datasets where one class is much less prevalent than the other (anomaly occurences). Focuses solely on the performance of the positive class.
 
 2. Heart Rate Monitoring for E-Health
-  - **Sensitivity (True Positive Rate) and Specificity (True Negative Rate):** Sensitivity measures the proportion of actual positives correctly identified (detecting a heart anomaly when it exists), Specificity measures the proportion of negatives correctly identified (correctly identifying normal heartbeats).
+  - **Sensitivity (True Positive Rate) and Specificity (True Negative Rate):**
+     - Sensitivity measures the proportion of actual positives correctly identified (detecting a heart anomaly when it exists),
+     - Specificity measures the proportion of negatives correctly identified (correctly identifying normal heartbeats).
   - **Accuracy:** Measures the overall correctness of the model in classifying the data.
   - **Precision and Recall:** Useful when more detailed evaluation of the error types (false positives and false negatives) is required.
   - **F1-Score:** Harmonic mean of Precision and Recall, balances the trade-off between Precision and Recall.
