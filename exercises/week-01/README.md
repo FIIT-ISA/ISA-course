@@ -1,5 +1,5 @@
 
-# Deployment of ML/DL models by examples
+# Deployment of ML/DL models: Examples ready-to-use
 
 - https://github.com/FIIT-ISA/ISA-ML-in-deployment-numbers
 - https://github.com/FIIT-ISA/ISA-ML-in-deployment-text 
