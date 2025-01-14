@@ -1,6 +1,6 @@
 # Datasets
 
-## Suggested small datasets for mini-projects (numbers equal the corresponding task concepts)
+## Suggested small datasets for mini-projects
 1. [Movielens 100K](https://grouplens.org/datasets/movielens/100k/) - 5 MB zip.
 2. [TMDB movie metadata](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) - 9 MB zip, ~40 MB unpacked.
 3. [Amazon reviews 2023](https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/review_categories/All_Beauty.jsonl.gz) - Amazon reviews 2023, All beauty product reviews category - 40 MB zip, ~300 MB unpacked.
