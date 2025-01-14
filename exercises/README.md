@@ -32,9 +32,6 @@
 > **xx.11.202x 23:59** (2. mini-project), 
 > **xx.12.202x 23:59** (3. mini-projekt).
 >
-> If the submission deadline is missed, late submission is possible one week later, i.e., by:
-> **xx.10.202x 23:59** (1. mini-project),
-> **xx.11.202x 23:59** (2. mini-project), 
-> **xx.12.202x 23:59** (3. mini-projekt)
+> If the submission deadline is missed, late submission is possible **one week later**
 > with a **50% penalty**.
 > Later submission will not be accepted. Failure to submit any phase of the project or activities will result in not meeting the prerequisites for the exam (N).
