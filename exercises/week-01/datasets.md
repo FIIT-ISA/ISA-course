@@ -32,11 +32,6 @@
 #### Open Data Portals
 - Open Data Slovakia: [http://opendata.sk/](http://opendata.sk/) - [https://slovak.statistics.sk/](https://slovak.statistics.sk/)
 
-#### Public Datasets for ML and Data Science
-- Towards AI - Best Datasets: [https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f](https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
-- Medium - Best Datasets: [https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f](https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
-- Data Science Dojo - 32 datasets: [https://datasciencedojo.com/blog/datasets-data-science-skills/](https://datasciencedojo.com/blog/datasets-data-science-skills/)
-
 #### Music Datasets
 - Music4All 2020: [https://sites.google.com/view/contact4music4all](https://sites.google.com/view/contact4music4all)
 - Million Song Dataset: [http://millionsongdataset.com/](http://millionsongdataset.com/)
@@ -61,10 +56,9 @@
 - Lionbridge AI - 18 Free Life Sciences & Medical Datasets: [https://lionbridge.ai/datasets/18-free-life-sciences-medical-datasets-for-machine-learning/](https://lionbridge.ai/datasets/18-free-life-sciences-medical-datasets-for-machine-learning/)
 - ODSC - 15 Open Datasets for Healthcare: [https://medium.com/@ODSC/15-open-datasets-for-healthcare-830b19980d9](https://medium.com/@ODSC/15-open-datasets-for-healthcare-830b19980d9)
 
-#### E-Monitoring and Anomaly Detection Datasets
+#### E-Monitoring Datasets
 - UNSW-NB15 Dataset: [https://research.unsw.edu.au/projects/unsw-nb15-dataset](https://research.unsw.edu.au/projects/unsw-nb15-dataset)
 - KDD Cup 1999 Data: [http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
-- Numenta Anomaly Benchmark (NAB): [https://github.com/numenta/NAB](https://github.com/numenta/NAB)
 - CERT Insider Threat Dataset: [https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508099](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508099)
 - HTTP Dataset CSIC 2010: [https://www.isi.csic.es/dataset/](https://www.isi.csic.es/dataset/)
 
@@ -74,3 +68,8 @@
 - Sentinel Satellites - ESA: [https://sentinel.esa.int/web/sentinel/sentinel-data-access](https://sentinel.esa.int/web/sentinel/sentinel-data-access)
 - MODIS Data (NASA): [https://modis.gsfc.nasa.gov/data/](https://modis.gsfc.nasa.gov/data/)
 - NOAA National Centers for Environmental Information (NCEI): [https://www.ncei.noaa.gov/](https://www.ncei.noaa.gov/)
+
+#### Public Datasets for ML and Data Science
+- Towards AI - Best Datasets: [https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f](https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
+- Medium - Best Datasets: [https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f](https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
+- Data Science Dojo - 32 datasets: [https://datasciencedojo.com/blog/datasets-data-science-skills/](https://datasciencedojo.com/blog/datasets-data-science-skills/)
