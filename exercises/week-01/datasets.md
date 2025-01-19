@@ -69,6 +69,6 @@
 - NOAA National Centers for Environmental Information (NCEI): [https://www.ncei.noaa.gov/](https://www.ncei.noaa.gov/)
 
 # Other public lists of datasets 
-- Towards AI - Best Datasets: [https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f](https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
-- Medium - Best Datasets: [https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f](https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
+- Towards AI: [https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f](https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
+- Medium: [https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f](https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
 - Data Science Dojo: [https://datasciencedojo.com/blog/datasets-data-science-skills/](https://datasciencedojo.com/blog/datasets-data-science-skills/)
