@@ -35,7 +35,7 @@
 #### Music Datasets
 - Music4All 2020: [https://sites.google.com/view/contact4music4all](https://sites.google.com/view/contact4music4all)
 - Million Song Dataset: [http://millionsongdataset.com/](http://millionsongdataset.com/)
-- Kaggle - Scrapped Lyrics from 6 Genres: [https://www.kaggle.com/neisse/scrapped-lyrics-from-6-genres?select=artists-data.csv](https://www.kaggle.com/neisse/scrapped-lyrics-from-6-genres?select=artists-data.csv)
+- Kaggle Scrapped Lyrics from 6 Genres: [https://www.kaggle.com/neisse/scrapped-lyrics-from-6-genres?select=artists-data.csv](https://www.kaggle.com/neisse/scrapped-lyrics-from-6-genres?select=artists-data.csv)
 - Kern Scores: [https://kern.humdrum.org/cgi-bin/browse?l=essen%2Feuropa%2Fdeutschl](https://kern.humdrum.org/cgi-bin/browse?l=essen%2Feuropa%2Fdeutschl)
 - TensorFlow Magenta - Groove: [https://magenta.tensorflow.org/datasets/groove](https://magenta.tensorflow.org/datasets/groove)
 
@@ -69,7 +69,7 @@
 - MODIS Data (NASA): [https://modis.gsfc.nasa.gov/data/](https://modis.gsfc.nasa.gov/data/)
 - NOAA National Centers for Environmental Information (NCEI): [https://www.ncei.noaa.gov/](https://www.ncei.noaa.gov/)
 
-#### Public Datasets for ML and Data Science
+#### Other public lists of datasets 
 - Towards AI - Best Datasets: [https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f](https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
 - Medium - Best Datasets: [https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f](https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
-- Data Science Dojo - 32 datasets: [https://datasciencedojo.com/blog/datasets-data-science-skills/](https://datasciencedojo.com/blog/datasets-data-science-skills/)
+- Data Science Dojo: [https://datasciencedojo.com/blog/datasets-data-science-skills/](https://datasciencedojo.com/blog/datasets-data-science-skills/)
