@@ -41,4 +41,5 @@ Knowledge in the course **[Intelligent Data Analysis (IAU_B) @ FIIT STU](https:/
 <p align="left">
     <img height=100px src="https://github.com/project-AILE/.github/raw/main/profile/img/EU-NextGenEU_POS.jpg">
     <img height=115px src="https://github.com/project-AILE/.github/raw/main/profile/img/POO_logo_angl.png">
+    <img height=120px src="https://github.com/project-AILE/.github/raw/main/profile/img/Vzdelavanie_4.png">
 </p>
