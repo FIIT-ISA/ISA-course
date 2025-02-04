@@ -2,7 +2,7 @@
 - Aplikácie inteligentných systémov 
 
 ### Foundation of Generative AI and Applied Machine Learning
-- Recommender Systems, e-Commerce, e-Monitoring
+- Recommender Systems, AI-Assisted Systems, e-Commerce, e-Monitoring
 - Privacy-Preserving Machine Learning
  
 By completing the course, students will gain knowledge about the development and deployment of real-world intelligent system applications. Through lectures, exercises and projects, students will cover the theory, practical knowledge of **foundation of generative AI** and skills that underpin **applied machine learning** in terms of building **intelligent system applications** with respect to **data protection**. The educational outcomes will provide students with the opportunity to enhance their understanding of machine learning specifics in application domains like e-commerce, monitoring systems, and remote sensing. Working on individual projects will encourage students to come up with their own ideas for implementing intelligent applications in both the **development** and **deployment** phases.
