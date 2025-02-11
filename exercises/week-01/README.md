@@ -5,12 +5,12 @@
 - https://github.com/FIIT-ISA/ISA-ML-in-deployment-text 
 - https://github.com/FIIT-ISA/ISA-ML-in-deployment-image 
 
-### Python application template for Data Science projects
+### Python application template for Data-Driven projects
 - [https://github.com/FIIT-ISA/cookiecutter-data-science](https://github.com/FIIT-ISA/cookiecutter-data-science) 
 
 ### Python docker template for Data Science environments
-- [https://github.com/FIIT-ISA/Dockers-for-DataScience](https://github.com/FIIT-ISA/Dockers-for-DataScience)
-- Docker compose: TBA asap.
+- [Dockers for DataScience](https://github.com/FIIT-ISA/Dockers-for-DataScience)
+- [Docker Compose Quickstart](https://docs.docker.com/compose/gettingstarted/)
 
   
 
