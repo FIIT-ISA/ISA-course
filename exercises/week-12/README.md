@@ -4,4 +4,4 @@
 docker compose up
 ```
 
-<img src="https://giangzuzana.github.io/images/celebration-time-by-ai.jpg" width="300"/>
+<img src="DALL·E_2025-02-11.webp" width="300"/>
