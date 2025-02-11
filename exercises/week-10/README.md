@@ -1,4 +1,4 @@
-# Privacy-Preserving Machine Learning
+# Privacy-Preserving Machine Learning (PPML)
 
 - Data Privacy Techniques
     - Data Anonymization
