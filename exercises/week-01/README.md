@@ -9,7 +9,7 @@
 - [https://github.com/FIIT-ISA/cookiecutter-data-science](https://github.com/FIIT-ISA/cookiecutter-data-science) 
 
 ### Python docker template for Data Science environments
-- [Dockers for DataScience](https://github.com/FIIT-ISA/Dockers-for-DataScience)
+- [Dockers for Data Science](https://github.com/FIIT-ISA/Dockers-for-DataScience)
 - [Docker Compose Quickstart](https://docs.docker.com/compose/gettingstarted/)
 
   
