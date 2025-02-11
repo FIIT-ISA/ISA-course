@@ -1,9 +1,21 @@
 # Privacy-Preserving Machine Learning
 
-- Anonymization by data transformation
-- K-Anonymity
-- L-Diversity
-- T-Closeness
-- Data Perturbation
-- Minimize Data
-- Access Control
+Data Privacy Techniques
+    - Data Anonymization
+        - Anonymization by data transformation
+        - K-Anonymity
+        - L-Diversity
+        - T-Closeness
+    - Data Perturbation
+    - Data Swapping
+    - Differential Privacy
+Data Security Techniques
+    - Minimize Data
+    - Encryption
+    - Homomorphic Encryption (HE)
+    - Access Control
+Distributed Learning
+    - Secure Multi-Party Computation (SMPC)
+    - Federated Learning (FL)
+Real-World Example - Google's Gboard
+Use cases with PPDM/PPML techniques
