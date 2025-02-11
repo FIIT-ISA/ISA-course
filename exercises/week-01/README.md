@@ -6,7 +6,7 @@
 - https://github.com/FIIT-ISA/ISA-ML-in-deployment-image 
 
 ### Python application template for Data-Driven projects
-- [ISA Cookie Cutter](https://github.com/FIIT-ISA/cookiecutter-data-science) 
+- [Cookie Cutter](https://github.com/FIIT-ISA/cookiecutter-data-science) 
 
 ### Python docker template for Data Science environments
 - [ISA Dockers for Data Science](https://github.com/FIIT-ISA/Dockers-for-DataScience)
