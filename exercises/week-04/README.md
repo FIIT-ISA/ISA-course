@@ -1,6 +1,10 @@
 # Recommendation using ML techniques
 
-- TBA asap.
+- Collaborative Filtering (CF)
+- Content-Based Filtering (CBF)
+- Hybrid Recommendation
+- Association rule mining: Apriori, FP-Growth
+- Next Buy Item Prediction: Naive Bayes
 
 
 ## Refresh from [IAU_B](https://github.com/FIIT-IAU/IAU-course)
