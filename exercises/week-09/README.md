@@ -1,5 +1,5 @@
 # Model-based Collaborative Filtering with Deep Learning
-- using following techniques
+
     - Matrix Factorization for RecSys
     - Embbeding layers for encoding
         - User Embeddings: Each user ID is mapped to a vector that captures the user's preferences and characteristics.
