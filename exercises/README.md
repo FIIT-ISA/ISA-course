@@ -6,7 +6,7 @@
 
 | week | Exercise              | Project          |
 | ----:| --------------------------------------------: | :--------------------------------------------|
-| 1.   | [Introduction to ML/DL Deployment](week-01)   | Organization of the exercise, finding a partner for the project|
+| 1.   | [Introduction to ML/DL Deployment](week-01)   | Organization of the exercise |
 | 2.   | [Ensemble Learning and Boosting](week-02)     | **Project assignment** |
 | 3.   | [Unsupervised Learning](week-03)              |  |
 | 4.   | [Recommendation with ML](week-04)             |  |
