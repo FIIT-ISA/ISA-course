@@ -27,7 +27,7 @@
 > week 10 (2. mini-project),
 > week 12 (3. mini-project).
 >
-> The pair will present their results to the instructor before deadline. One member of the pair will then electronically submit the report to the AIS system by:
+> Students will present their results to the instructor before deadline, then electronically submit the report to the AIS system by:
 > **xx.10.202x 23:59** (1. mini-project),
 > **xx.11.202x 23:59** (2. mini-project), 
 > **xx.12.202x 23:59** (3. mini-projekt).
