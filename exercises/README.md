@@ -7,7 +7,7 @@
 | week | Exercise              | Project          |
 | ----:| --------------------------------------------: | :--------------------------------------------|
 | 1.   | [Introduction to ML/DL Deployment](week-01)   | Organization of the exercise |
-| 2.   | [Unsupervised Learning for RecSys](week-02)   |  |
+| 2.   | [Unsupervised Learning](week-02)              |  |
 | 3.   | [Ensemble Learning and Boosting](week-03)     | **Project assignment** |
 | 4.   | [Recommendation with ML](week-04)             |  |
 | 5.   | [Foundation of Generative AI and DL](week-05) |  |
