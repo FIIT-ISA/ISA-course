@@ -1,13 +1,18 @@
-# Recommendation using ML techniques
+# Ensemble Learning and Boosting
 
-- Collaborative Filtering (CF)
-- Content-Based Filtering (CBF)
-- Hybrid Recommendation
-- Association rule mining: Apriori, FP-Growth
-- Next Buy Item Prediction: Naive Bayes
+### Basic Ensemble Learning Techniques:
+- Max Voting
+- Averaging
+- Weighted Average
 
-
-## Refresh from [IAU_B](https://github.com/FIIT-IAU/IAU-course)
-
-- [COVID infection situation with ML techniques](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-09/IAU_09_DU_covid19-modeling.ipynb) 
-- [e-Commerce sale trend prediction](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-11/IAU_114_LSTM-sale-trend-prediction-wandb.ipynb)
+### Advanced ensemble learning techniques:
+- Stacking
+- Blending
+- Bagging
+    - Random Forest
+    - Extra-Trees (Extremely Randomized Trees)
+    - Bagging Meta-Estimator
+- Boosting
+    - AdaBoost
+    - Gradient tree boosting
+    - eXtreme Gradient Boosting (XGBoost)
