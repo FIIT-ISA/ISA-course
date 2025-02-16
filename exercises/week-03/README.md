@@ -1,11 +1,18 @@
-# Unsupervised Learning
-- Latent Semantic Analysis (LSA)
-- Matrix Factorization (MF)
-    - Non-Negative Matrix Factorization (NMF)
-- Clustering
-    - K-means clustering
-    - Fuzzy k-means clustering
-    - Hierarchical clustering
-        - Divisive Clustering
-        - Agglomerative Clustering
-    - Probabilistic Clustering
+# Ensemble Learning and Boosting
+
+### Basic Ensemble Learning Techniques:
+- Max Voting
+- Averaging
+- Weighted Average
+
+### Advanced ensemble learning techniques:
+- Stacking
+- Blending
+- Bagging
+    - Random Forest
+    - Extra-Trees (Extremely Randomized Trees)
+    - Bagging Meta-Estimator
+- Boosting
+    - AdaBoost
+    - Gradient tree boosting
+    - eXtreme Gradient Boosting (XGBoost)
