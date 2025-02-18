@@ -11,10 +11,3 @@
 ### Python docker template for Data Science environments
 - [Dockers for Data Science](https://github.com/FIIT-ISA/Dockers-for-DataScience)
 - [Docker Compose Quickstart](https://docs.docker.com/compose/gettingstarted/)
-
-  
-
-# Refresh from the [IAU_B](https://github.com/FIIT-IAU/IAU-course) course
-
-### Setting Python virtual environment
-- [Introduction to Data Science and Data Processing in Python](https://docs.google.com/presentation/d/1RVMBCJ7rgnpTAfsNPzLU8NgNE7Uho3L22t3PzU6ZrDs/edit?usp=share_link)
