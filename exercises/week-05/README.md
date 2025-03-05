@@ -24,8 +24,7 @@
 
 ### Weights & Biases (WandB)
 - [Using Weights & Biases (WandB) for Log Training](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-11/IAU_wandb_README.md)
-- [WandB for Musiker e-shop](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-11/IAU_03_LSTM-sale-trend-prediction-wandb.ipynb)
-- [e-Commerce sale trend prediction](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-11/IAU_114_LSTM-sale-trend-prediction-wandb.ipynb)
+- [WandB for Musiker e-shop: sale trend prediction](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-11/IAU_03_LSTM-sale-trend-prediction-wandb.ipynb)
 
   
 ### Hyper-parameter tuning for deep learning models
