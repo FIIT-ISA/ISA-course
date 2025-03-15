@@ -13,7 +13,7 @@
 - [WandB for Musiker e-shop: sale trend prediction](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-11/IAU_03_LSTM-sale-trend-prediction-wandb.ipynb)
 
 ### neptune.ai
-- [Neptune.ai tutorial](neptune_tutorial.md)
+- [neptune.ai tutorial](neptune_tutorial.md)
 
 ### Hyper-parameter tuning for deep learning models
 - [Keras tunner with HyperBand](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12)
