@@ -18,9 +18,9 @@
 ### Hyper-parameter tuning for deep learning models
 - [Keras tunner with HyperBand](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12)
 
-### [Transfer learning and fine tuning](transfer-learning-and-fine-tuning)
-- for TensorFlow
-- for PyTorch
+### Transfer learning and fine tuning
+- [for TensorFlow](TensorFlow%20Transfer%20learning%20and%20fine%20tuning%20tensorflow.ipynb)
+- [for PyTorch](Transfer%20learning%20and%20fine%20tuning%20pytorch.ipynb)
 
 ### [Three main ways to build models in Keras](ISA_Sequential-Functional-OOP.ipynb)
 - Sequential API
