@@ -22,7 +22,7 @@
 - [for TensorFlow](https://github.com/FIIT-ISA/ISA-course/blob/main/exercises/week-04/transfer-learning-and-fine-tuning/TensorFlow%20Transfer%20learning%20and%20fine%20tuning%20tensorflow.ipynb)
 - [for PyTorch](https://github.com/FIIT-ISA/ISA-course/blob/main/exercises/week-04/transfer-learning-and-fine-tuning/Transfer%20learning%20and%20fine%20tuning%20pytorch.ipynb)
 
-### [Three main ways to build models in Keras](ISA_Sequential-Functional-OOP.ipynb)
+### [Three ways to create DL models in Keras](ISA_Sequential-Functional-OOP.ipynb)
 - Sequential API
 - Functional API
-- Model Subclassing (Object-Oriented Programming)
+- Model Subclassing (Object-Oriented Programming - OOP)
