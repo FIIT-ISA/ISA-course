@@ -16,7 +16,8 @@
 - [neptune.ai tutorial for Log Training](neptune_tutorial.md)
 
 ### Hyper-parameter tuning for deep learning models
-- [Keras tunner with HyperBand](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12)
+- [KerasTuner with HyperBand](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12)
+- [Optuna hyper-parameter tuning for Pytorch](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_03-optuna-tuning-for-pytorch.ipynb)
 
 ### Transfer learning and fine tuning
 - [for TensorFlow](https://github.com/FIIT-ISA/ISA-course/blob/main/exercises/week-04/transfer-learning-and-fine-tuning/TensorFlow%20Transfer%20learning%20and%20fine%20tuning%20tensorflow.ipynb)
