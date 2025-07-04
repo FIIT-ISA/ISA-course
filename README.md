@@ -13,7 +13,7 @@ By completing the course, students will gain knowledge about the development and
 
 ### [Course conditions](https://github.com/FIIT-ISA/ISA-course/blob/main/condition.md)
 
-### [MS Teams](https://teams.microsoft.com/l/team/19%3AsGEYpluQYgVfCoIsAL8JVvUnoP2cJQcdkPW7zgFmnTI1%40thread.tacv2/conversations?groupId=6f042641-2e44-418c-a945-f83ff90627f1&tenantId=25733538-6b16-4aa3-8ed6-297eb79b8e06)
+### MS Teams
 
 <p align="center">
     <img height=300px src="https://giangzuzana.github.io/images/IDSA-idea-transparent.png">
@@ -37,7 +37,7 @@ By completing the course, students will gain knowledge about the development and
 ### Notes
 Knowledge in the course **[Intelligent Data Analysis (IAU_B) @ FIIT STU](https://github.com/FIIT-IAU/IAU-course)** at the level of a graduate of the Bachelor's study program in Computer Science is assumed.
 
-<p align="left">
+<p align="center">
     <img height=100px src="https://github.com/project-AILE/.github/raw/main/profile/img/EU-NextGenEU_POS.jpg">
     <img height=115px src="https://github.com/project-AILE/.github/raw/main/profile/img/POO_logo_angl.png">
     <img height=120px src="https://github.com/project-AILE/.github/raw/main/profile/img/Vzdelavanie_4.png">
