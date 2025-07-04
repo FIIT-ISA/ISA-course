@@ -38,7 +38,7 @@ By completing the course, students will gain knowledge about the development and
 Knowledge in the course **[Intelligent Data Analysis (IAU_B) @ FIIT STU](https://github.com/FIIT-IAU/IAU-course)** at the level of a graduate of the Bachelor's study program in Computer Science is assumed.
 
 <p align="center">
-    <img height=100px src="https://github.com/project-AILE/.github/raw/main/profile/img/EU-NextGenEU_POS.jpg">
-    <img height=115px src="https://github.com/project-AILE/.github/raw/main/profile/img/POO_logo_angl.png">
-    <img height=120px src="https://github.com/project-AILE/.github/raw/main/profile/img/Vzdelavanie_4.png">
+    <img height=100px src="https://github.com/project-AILE/.github/blob/main/profile/img/EU-NextGenEU_POS.jpg">
+    <img height=115px src="https://github.com/project-AILE/.github/blob/main/profile/img/POO_logo_angl.png">
+    <img height=120px src="https://github.com/project-AILE/.github/blob/main/profile/img/Vzdelavanie_4.png">
 </p>
