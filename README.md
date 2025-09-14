@@ -26,13 +26,13 @@ By completing the course, students will gain knowledge about the development and
 
 ### Course textbook / Base literature 
 
-- NGUYEN, G., 2026. **Foundation of Generative AI and Applied Machine Learning** (in preparation). The Edition of University Textbooks on Informatics and Information Technologies. Spektrum STU Publishing, ISBN 978-80-xxx-xxxx-x. Will be available at FIIT STU e-library [ ELVIRA ](https://elvira.fiit.stuba.sk/) with AIS access.
+- NGUYEN, G., LYTVYN, O., 2026. **Foundation of Generative AI and Applied Machine Learning** (in preparation). The Edition of University Textbooks on Informatics and Information Technologies. Spektrum STU Publishing, ISBN 978-80-xxx-xxxx-x. Will be available at FIIT STU e-library [ ELVIRA ](https://elvira.fiit.stuba.sk/) with AIS access.
 
 ### Recommended literature
 
 - HUYEN, C., 2022. [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/). O'Reilly Media, Inc. ISBN 978-1098107963.  
 
-- ZHANG A. et al., 2023: [Dive into Deep Learning](https://d2l.ai/index.html), Cambridge University Press. ISBN 978-1009389433. Adopted at 500 universities from 70 countries.
+- ZHANG A., et al., 2023: [Dive into Deep Learning](https://d2l.ai/index.html), Cambridge University Press. ISBN 978-1009389433. Adopted at 500 universities from 70 countries.
   
 - AGGARWAL, C.C., 2016. [Recommender Systems](https://link.springer.com/book/10.1007/978-3-319-29659-3). Springer. ISBN 978-3-319-29657-9.  
 
