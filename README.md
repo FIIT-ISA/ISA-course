@@ -24,8 +24,11 @@ By completing the course, students will gain knowledge about the development and
     <img height=300px src="https://giangzuzana.github.io/images/IDSA-idea-transparent.png">
 </p>
 
+### Course textbook / Base literature 
 
-### Literature
+- NGUYEN, G., 2025. **Foundation of Generative AI and Applied Machine Learning** (in preparation). The Edition of University Textbooks on Informatics and Information Technologies. Spektrum STU Publishing, ISBN 978-80-xxx-xxxx-x. <br>Will be available at FIIT STU e-library [ ELVIRA ](https://elvira.fiit.stuba.sk/) with AIS access.
+
+### Recommended literature
 
 - HUYEN, C., 2022. [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/). O'Reilly Media, Inc. ISBN 978-1098107963.  
 
