@@ -1,7 +1,7 @@
 #  Intelligent System Applications (ISA_I)
 - Aplikácie inteligentných systémov 
 
-### Foundations of Generative AI and Applied Machine Learning
+## Foundations of Generative AI and Applied Machine Learning
 - Neural Recommender Systems
 - Privacy-Preserving Machine Learning
  
