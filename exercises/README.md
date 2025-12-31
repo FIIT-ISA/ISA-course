@@ -28,7 +28,7 @@
 > week 12 (3. mini-project).
 >
 > Students will present their results to the instructor before deadline, then electronically submit the report to the AIS system by:
-> **week-05 Sunday 23:59** (1. mini-project),
+> **week-06 Sunday 23:59** (1. mini-project),
 > **week-10 Sunday 23:59** (2. mini-project), 
 > **week-12 Sunday 23:59** (3. mini-projekt).
 >
