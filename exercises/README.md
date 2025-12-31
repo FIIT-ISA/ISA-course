@@ -11,7 +11,7 @@
 | 3.   | [Ensemble Learning and Boosting](week-03)     | **Project assignment** |
 | 4.   | [Recommendation with ML](week-04)             |  |
 | 5.   | [Foundation of Generative AI and DL](week-05) |  |
-| 6.   | [NLP Transformer](week-06)                    | Submission to AIS |
+| 6.   | [Recommendation with NLP](week-06)            | Submission to AIS |
 | 7.   | [Attention and Embedding](week-07)            |  |
 | 8.   | [Recommendation with DL](week-08)             |  |
 | 9.   | [Collaborative Filtering with DL](week-09)    |  |
