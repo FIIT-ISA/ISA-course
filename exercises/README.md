@@ -11,13 +11,13 @@
 | 3.   | [Ensemble Learning and Boosting](week-03)     | **Project assignment** |
 | 4.   | [Recommendation with ML](week-04)             |  |
 | 5.   | [Foundation of Generative AI and DL](week-05) |  |
-| 6.   | [NLP Transformer](week-06)                    | Submission to AIS by **30.03.2025 23:59** |
+| 6.   | [NLP Transformer](week-06)                    | Submission to AIS |
 | 7.   | [Attention and Embedding](week-07)            |  |
 | 8.   | [Recommendation with DL](week-08)             |  |
 | 9.   | [Collaborative Filtering with DL](week-09)    |  |
-| 10.  | [Privacy-Preserving ML/DL](week-10)           | Submission to AIS  by **27.04.2025 23:59** |
+| 10.  | [Privacy-Preserving ML/DL](week-10)           | Submission to AIS |
 | 11.  | [Differential Privacy in ML/DL](week-11)      |  |
-| 12.  | [Finalization](week-12)                       | Submission to AIS  by **11.05.2025 23:59** |
+| 12.  | [Finalization](week-12)                       | Submission to AIS |
 |      |                                               |                                               |
 
 ## Important Notice
@@ -28,9 +28,9 @@
 > week 12 (3. mini-project).
 >
 > Students will present their results to the instructor before deadline, then electronically submit the report to the AIS system by:
-> **30.03.2025 23:59** (1. mini-project),
-> **27.04.2025 23:59** (2. mini-project), 
-> **11.05.2025 23:59** (3. mini-projekt).
+> **week-05 Sunday 23:59** (1. mini-project),
+> **week-10 Sunday 23:59** (2. mini-project), 
+> **week-12 Sunday 23:59** (3. mini-projekt).
 >
 > If the submission deadline is missed, late submission is possible **one week later**
 > with a **50% penalty**.
