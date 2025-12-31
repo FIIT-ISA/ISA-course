@@ -31,10 +31,10 @@ By completing the course, students will gain knowledge about the development and
 ### Recommended literature
 
 - ZHANG A., et al., 2023: [Dive into Deep Learning](https://d2l.ai/index.html), Cambridge University Press. ISBN 978-1009389433. Adopted at 500 universities from 70 countries.
-
-- AGGARWAL, C.C., 2016. [Recommender Systems](https://link.springer.com/book/10.1007/978-3-319-29659-3). Springer. ISBN 978-3-319-29657-9.  
  
 - HUYEN, C., 2022. [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/). O'Reilly Media, Inc. ISBN 978-1098107963. 
+
+- AGGARWAL, C.C., 2016. [Recommender Systems](https://link.springer.com/book/10.1007/978-3-319-29659-3). Springer. ISBN 978-3-319-29657-9.  
 
 ### Notes
 Knowledge in the course **[Intelligent Data Analysis (IAU_B) @ FIIT STU](https://github.com/FIIT-IAU/IAU-course)** at the level of a graduate of the Bachelor's study program in Computer Science is assumed.
