@@ -10,7 +10,7 @@ By completing the course, students will gain knowledge about the development and
 
 - Data and generative foundation of models
 - Responsible AI, production-ready application design
-- Practical use cases of Applied ML: Recommender systems, AI-Assisted systems, ML systems
+- Practical use cases of Applied ML: RecSys, AI-Assisted systems, ML systems
 
 
 ### [Lectures](https://github.com/FIIT-ISA/ISA-course/tree/main/lectures)
