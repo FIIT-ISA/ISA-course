@@ -1,20 +1,62 @@
-# Recommended datasets for mini-projects
-- [Movielens](https://grouplens.org/datasets/movielens/) - at least 1M = 63 MB zip. 
-- [TMDB movie metadata](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) - 9 MB zip, ~40 MB unpacked.
-- [Amazon reviews 2023](https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/review_categories/All_Beauty.jsonl.gz) - Amazon reviews 2023, All beauty product reviews category - 40 MB zip, ~300 MB unpacked.
-- [Network traffic](https://unsw-my.sharepoint.com/personal/z5025758_ad_unsw_edu_au/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fz5025758%5Fad%5Funsw%5Fedu%5Fau%2FDocuments%2FUNSW%2DNB15%20dataset%2FCSV%20Files%2FTraining%20and%20Testing%20Sets) - variable size CSV files or PCAP, if needed. Choose any, they are smaller than 500 MB.
-- [Arrythmia dataset](https://physionet.org/content/mitdb/1.0.0/) - ~100 MB unpacked.
-- [Land cover USA data](landcover.usgs.gov) - choose the land of any state, they are of variable size and mostly are less than 500 MB.
+# Recommender System (E-commerce)
+- Movielens https://grouplens.org/datasets/movielens/ - at least 1M = 63 MB zip. 
+- TMDB movie metadata https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata - 9 MB zip, ~40 MB unpacked.
+- Amazon reviews 2023 https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/review_categories/All_Beauty.jsonl.gz - Amazon reviews 2023, All beauty product reviews category - 40 MB zip, ~300 MB unpacked.
+- Kaggle - Movie Recommender Systems: https://www.kaggle.com/code/rounakbanik/movie-recommender-systems
+- OTTO Recommender Systems Dataset: https://github.com/otto-de/recsys-dataset
+- Amazon Product Data (1996-2014): http://jmcauley.ucsd.edu/data/amazon/links.html
+- Recommender Systems and Personalization Datasets: https://cseweb.ucsd.edu/~jmcauley/datasets.html
+- eCommerce Behavior Data: https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store
+
+# Music Datasets
+- MIDI paired with song names (with some inaccuracy https://www.kaggle.com/datasets/imsparsh/lakh-midi-clean
+- Last.fm Dataset https://grouplens.org/datasets/hetrec-2011/
+- Tensorflow Magenta Groove MIDI dataset https://magenta.tensorflow.org/datasets/groove - ~200 MB and ~3.11 MB respectively.
+- Million Song Dataset: http://millionsongdataset.com/
+- Kaggle Scrapped Lyrics from 6 Genres: https://www.kaggle.com/neisse/scrapped-lyrics-from-6-genres?select=artists-data.csv
+- Kern Scores: https://kern.humdrum.org/cgi-bin/browse?l=essen%2Feuropa%2Fdeutschl
+- TensorFlow Magenta - Groove: https://magenta.tensorflow.org/datasets/groove
+- Music4All 2020: https://sites.google.com/view/contact4music4all
+
+# NLP Datasets
 - [Named Entity Recognition](https://www.clips.uantwerpen.be/conll2003/ner/) - max ~15 MB archived.
 - [Project Gutenberg books](https://www.gutenberg.org/browse/scores/top) - plaintext books ~0.3-3 MB each.
 - [CNN dailymail data](https://github.com/abisee/cnn-dailymail), specifically [CNN stories tokenized](https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail?tab=readme-ov-file) - ~200 MB zip, ~500 MB unpacked.
-- [MIDI paired with song names (with some inaccuracy)](https://www.kaggle.com/datasets/imsparsh/lakh-midi-clean),
-- [Tensorflow Magenta Groove MIDI dataset](https://magenta.tensorflow.org/datasets/groove) - ~200 MB and ~3.11 MB respectively.
-- [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) highly recommended, but is fairly large (1.34 GB archived).
-- [CIFAR-10/100](https://www.cs.toronto.edu/~kriz/cifar.html) - ~161 MB archived.
+  
+# E-Monitoring Datasets
+- [Network traffic](https://unsw-my.sharepoint.com/personal/z5025758_ad_unsw_edu_au/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fz5025758%5Fad%5Funsw%5Fedu%5Fau%2FDocuments%2FUNSW%2DNB15%20dataset%2FCSV%20Files%2FTraining%20and%20Testing%20Sets) - variable size CSV files or PCAP. Choose any, they are smaller than 500 MB.
+- UNSW-NB15 Dataset: https://research.unsw.edu.au/projects/unsw-nb15-dataset
+- KDD Cup 1999 Data: http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
+- CERT Insider Threat Dataset: https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508099
+- HTTP Dataset CSIC 2010: https://www.isi.csic.es/dataset/
+
+# Healthcare Datasets
+- Arrythmia dataset https://physionet.org/content/mitdb/1.0.0/) - ~100 MB unpacked.
+- DrugBank: https://go.drugbank.com/releases/latest
+- Medical Imaging Datasets https://github.com/sfikas/medical-imaging-datasets
+- CANTEMIST: https://temu.bsc.es/cantemist/
+- Breast Cancer Histology Images: https://iciar2018-challenge.grand-challenge.org/Dataset/
+- OASIS Brains (image) Datasets: https://www.oasis-brains.org/#data
+- CheXpert: https://stanfordmlgroup.github.io/competitions/chexpert/
+- MedMNIST: https://medmnist.com/
+- Lionbridge AI - 18 Free Life Sciences & Medical Datasets: https://lionbridge.ai/datasets/18-free-life-sciences-medical-datasets-for-machine-learning/
+- ODSC - 15 Open Datasets for Healthcare: https://medium.com/@ODSC/15-open-datasets-for-healthcare-830b19980d9
 
 
 # General Sources
+
+### Remote Sensing Datasets
+- Land cover USA data https://landcover.usgs.gov - choose the land of any state, they are of variable size and mostly are less than 500 MB.
+- USGS Earth Explorer: https://earthexplorer.usgs.gov/
+- LandSat Data: https://www.usgs.gov/landsat-missions/landsat-data-access
+- Sentinel Satellites https://sentinel.esa.int/web/sentinel/sentinel-data-access
+- MODIS Data (NASA): https://modis.gsfc.nasa.gov/data/
+- NOAA National Centers for Environmental Information (NCEI): https://www.ncei.noaa.gov/
+  
+### Image Datasets  
+- [CIFAR-10/100](https://www.cs.toronto.edu/~kriz/cifar.html) - ~161 MB archived.
+- [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) highly recommended, but is fairly large (1.34 GB archived).
+
 ### Public Repositories
 - UCI: [http://archive.ics.uci.edu/ml/index.php](http://archive.ics.uci.edu/ml/index.php)
 - Kaggle Datasets: [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
@@ -27,45 +69,6 @@
 
 ### Open Data Portals
 - Open Data Slovakia: [http://opendata.sk/](http://opendata.sk/) - [https://slovak.statistics.sk/](https://slovak.statistics.sk/)
-
-# Alternate Sources
-### Music Datasets
-- Music4All 2020: [https://sites.google.com/view/contact4music4all](https://sites.google.com/view/contact4music4all)
-- Million Song Dataset: [http://millionsongdataset.com/](http://millionsongdataset.com/)
-- Kaggle Scrapped Lyrics from 6 Genres: [https://www.kaggle.com/neisse/scrapped-lyrics-from-6-genres?select=artists-data.csv](https://www.kaggle.com/neisse/scrapped-lyrics-from-6-genres?select=artists-data.csv)
-- Kern Scores: [https://kern.humdrum.org/cgi-bin/browse?l=essen%2Feuropa%2Fdeutschl](https://kern.humdrum.org/cgi-bin/browse?l=essen%2Feuropa%2Fdeutschl)
-- TensorFlow Magenta - Groove: [https://magenta.tensorflow.org/datasets/groove](https://magenta.tensorflow.org/datasets/groove)
-
-### Recommender System (E-commerce)
-- Kaggle - Movie Recommender Systems: [https://www.kaggle.com/code/rounakbanik/movie-recommender-systems](https://www.kaggle.com/code/rounakbanik/movie-recommender-systems)
-- OTTO Recommender Systems Dataset: [https://github.com/otto-de/recsys-dataset](https://github.com/otto-de/recsys-dataset)
-- Amazon Product Data (1996-2014): [http://jmcauley.ucsd.edu/data/amazon/links.html](http://jmcauley.ucsd.edu/data/amazon/links.html)
-- Recommender Systems and Personalization Datasets: [https://cseweb.ucsd.edu/~jmcauley/datasets.html](https://cseweb.ucsd.edu/~jmcauley/datasets.html)
-- eCommerce Behavior Data from Kaggle]https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store
-
-### Medicine - Healthcare Datasets
-- DrugBank: [https://go.drugbank.com/releases/latest](https://go.drugbank.com/releases/latest)
-- Medical Imaging Datasets - GitHub: [https://github.com/sfikas/medical-imaging-datasets](https://github.com/sfikas/medical-imaging-datasets)
-- CANTEMIST: [https://temu.bsc.es/cantemist/](https://temu.bsc.es/cantemist/)
-- Breast Cancer Histology Images: [https://iciar2018-challenge.grand-challenge.org/Dataset/](https://iciar2018-challenge.grand-challenge.org/Dataset/)
-- OASIS Brains (image) Datasets: [https://www.oasis-brains.org/#data](https://www.oasis-brains.org/#data)
-- CheXpert: [https://stanfordmlgroup.github.io/competitions/chexpert/](https://stanfordmlgroup.github.io/competitions/chexpert/)
-- MedMNIST: [https://medmnist.com/](https://medmnist.com/)
-- Lionbridge AI - 18 Free Life Sciences & Medical Datasets: [https://lionbridge.ai/datasets/18-free-life-sciences-medical-datasets-for-machine-learning/](https://lionbridge.ai/datasets/18-free-life-sciences-medical-datasets-for-machine-learning/)
-- ODSC - 15 Open Datasets for Healthcare: [https://medium.com/@ODSC/15-open-datasets-for-healthcare-830b19980d9](https://medium.com/@ODSC/15-open-datasets-for-healthcare-830b19980d9)
-
-### E-Monitoring Datasets
-- UNSW-NB15 Dataset: [https://research.unsw.edu.au/projects/unsw-nb15-dataset](https://research.unsw.edu.au/projects/unsw-nb15-dataset)
-- KDD Cup 1999 Data: [http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
-- CERT Insider Threat Dataset: [https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508099](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508099)
-- HTTP Dataset CSIC 2010: [https://www.isi.csic.es/dataset/](https://www.isi.csic.es/dataset/)
-
-### Remote Sensing Datasets
-- USGS Earth Explorer: [https://earthexplorer.usgs.gov/](https://earthexplorer.usgs.gov/)
-- LandSat Data: [https://www.usgs.gov/landsat-missions/landsat-data-access](https://www.usgs.gov/landsat-missions/landsat-data-access)
-- Sentinel Satellites - ESA: [https://sentinel.esa.int/web/sentinel/sentinel-data-access](https://sentinel.esa.int/web/sentinel/sentinel-data-access)
-- MODIS Data (NASA): [https://modis.gsfc.nasa.gov/data/](https://modis.gsfc.nasa.gov/data/)
-- NOAA National Centers for Environmental Information (NCEI): [https://www.ncei.noaa.gov/](https://www.ncei.noaa.gov/)
 
 # Other public lists of datasets 
 - Towards AI: [https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f](https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
