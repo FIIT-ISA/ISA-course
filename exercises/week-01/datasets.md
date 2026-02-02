@@ -1,19 +1,17 @@
 # Recommended datasets for mini-projects
-1. [Movielens 100K](https://grouplens.org/datasets/movielens/100k/) - 5 MB zip.
-2. [TMDB movie metadata](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) - 9 MB zip, ~40 MB unpacked.
-3. [Amazon reviews 2023](https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/review_categories/All_Beauty.jsonl.gz) - Amazon reviews 2023, All beauty product reviews category - 40 MB zip, ~300 MB unpacked.
-4. [Instacart market basket data](https://www.kaggle.com/c/instacart-market-basket-analysis/data) - ~200 MB all data archived, questionable size of unarchived CSVs. Possibly doable as per project.
-5. [Movielens 1M](https://grouplens.org/datasets/movielens/1m/) - 63 MB zip. If too large, use 100K Movielens dataset from point 1.
-6. Amazon Reviews 2023, see link of task 3.
-7. [Network traffic](https://unsw-my.sharepoint.com/personal/z5025758_ad_unsw_edu_au/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fz5025758%5Fad%5Funsw%5Fedu%5Fau%2FDocuments%2FUNSW%2DNB15%20dataset%2FCSV%20Files%2FTraining%20and%20Testing%20Sets) - variable size CSV files or PCAP, if needed. Choose any, they are smaller than 500 MB.
-8. [Arrythmia dataset](https://physionet.org/content/mitdb/1.0.0/) - ~100 MB unpacked.
-9. [Land cover USA data](landcover.usgs.gov) - choose the land of any state, they are of variable size and mostly are less than 500 MB.
-10. [20 Newsgroups](http://qwone.com/~jason/20Newsgroups/) - ~15-20 MB archived.
-11. [Language-independent Named Entity Recognition](https://www.clips.uantwerpen.be/conll2003/ner/) - max ~15 MB archived.
-12. [Project Gutenberg books](https://www.gutenberg.org/browse/scores/top) - plaintext books ~0.3-3 MB each.
-13. [CNN dailymail data](https://github.com/abisee/cnn-dailymail), specifically [CNN stories tokenized](https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail?tab=readme-ov-file) - ~200 MB zip, ~500 MB unpacked.
-14. [MIDI paired with song names (with some inaccuracy)](https://www.kaggle.com/datasets/imsparsh/lakh-midi-clean), [Tensorflow Magenta Groove MIDI dataset](https://magenta.tensorflow.org/datasets/groove) - ~200 MB and ~3.11 MB respectively.
-15. [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) highly recommended, but is fairly large (1.34 GB archived). So one might want to try [CIFAR-10/100](https://www.cs.toronto.edu/~kriz/cifar.html) - ~161 MB archived.
+- [Movielens](https://grouplens.org/datasets/movielens/) - at least 1M = 63 MB zip. 
+- [TMDB movie metadata](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) - 9 MB zip, ~40 MB unpacked.
+- [Amazon reviews 2023](https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/review_categories/All_Beauty.jsonl.gz) - Amazon reviews 2023, All beauty product reviews category - 40 MB zip, ~300 MB unpacked.
+- [Network traffic](https://unsw-my.sharepoint.com/personal/z5025758_ad_unsw_edu_au/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fz5025758%5Fad%5Funsw%5Fedu%5Fau%2FDocuments%2FUNSW%2DNB15%20dataset%2FCSV%20Files%2FTraining%20and%20Testing%20Sets) - variable size CSV files or PCAP, if needed. Choose any, they are smaller than 500 MB.
+- [Arrythmia dataset](https://physionet.org/content/mitdb/1.0.0/) - ~100 MB unpacked.
+- [Land cover USA data](landcover.usgs.gov) - choose the land of any state, they are of variable size and mostly are less than 500 MB.
+- [Named Entity Recognition](https://www.clips.uantwerpen.be/conll2003/ner/) - max ~15 MB archived.
+- [Project Gutenberg books](https://www.gutenberg.org/browse/scores/top) - plaintext books ~0.3-3 MB each.
+- [CNN dailymail data](https://github.com/abisee/cnn-dailymail), specifically [CNN stories tokenized](https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail?tab=readme-ov-file) - ~200 MB zip, ~500 MB unpacked.
+- [MIDI paired with song names (with some inaccuracy)](https://www.kaggle.com/datasets/imsparsh/lakh-midi-clean),
+- [Tensorflow Magenta Groove MIDI dataset](https://magenta.tensorflow.org/datasets/groove) - ~200 MB and ~3.11 MB respectively.
+- [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) highly recommended, but is fairly large (1.34 GB archived).
+- [CIFAR-10/100](https://www.cs.toronto.edu/~kriz/cifar.html) - ~161 MB archived.
 
 
 # General Sources
@@ -43,6 +41,7 @@
 - OTTO Recommender Systems Dataset: [https://github.com/otto-de/recsys-dataset](https://github.com/otto-de/recsys-dataset)
 - Amazon Product Data (1996-2014): [http://jmcauley.ucsd.edu/data/amazon/links.html](http://jmcauley.ucsd.edu/data/amazon/links.html)
 - Recommender Systems and Personalization Datasets: [https://cseweb.ucsd.edu/~jmcauley/datasets.html](https://cseweb.ucsd.edu/~jmcauley/datasets.html)
+- eCommerce Behavior Data from Kaggle]https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store
 
 ### Medicine - Healthcare Datasets
 - DrugBank: [https://go.drugbank.com/releases/latest](https://go.drugbank.com/releases/latest)
