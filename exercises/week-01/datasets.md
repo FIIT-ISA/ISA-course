@@ -57,7 +57,7 @@
 - MODIS Data (NASA): https://modis.gsfc.nasa.gov/data/
 - NOAA National Centers for Environmental Information (NCEI): https://www.ncei.noaa.gov/
   
-# Public Repositories: ML-oriented generic data
+# Public Repositories: ML/DL oriented  data
 - UCI: http://archive.ics.uci.edu/ml/index.php
 - Kaggle Datasets: https://www.kaggle.com/datasets
 - Google Dataset Search: https://datasetsearch.research.google.com/
