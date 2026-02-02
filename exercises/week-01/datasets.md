@@ -44,9 +44,7 @@
 - ODSC - 15 Open Datasets for Healthcare: https://medium.com/@ODSC/15-open-datasets-for-healthcare-830b19980d9
 
 
-# General Sources
-
-### Image Datasets: image classification is not recommended in ISA course
+# Image Datasets: image classification is not recommended in ISA course
 - [CIFAR-10/100](https://www.cs.toronto.edu/~kriz/cifar.html) - ~161 MB archived.
 - [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) highly recommended, but is fairly large (1.34 GB archived).
 
@@ -58,20 +56,18 @@
 - MODIS Data (NASA): https://modis.gsfc.nasa.gov/data/
 - NOAA National Centers for Environmental Information (NCEI): https://www.ncei.noaa.gov/
   
-### Public Repositories
+# Public Repositories: ML-oriented generic data
 - UCI: [http://archive.ics.uci.edu/ml/index.php](http://archive.ics.uci.edu/ml/index.php)
 - Kaggle Datasets: [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
 - Google Dataset Search: [https://datasetsearch.research.google.com/](https://datasetsearch.research.google.com/)
 
-### Science and Research
+### Science and Research, Open Data
 - CERN: [http://opendata.cern.ch/](http://opendata.cern.ch/)
 - NASA: [https://data.nasa.gov/](https://data.nasa.gov/)
 - LASP (Laboratory for Atmospheric and Space Physics): [https://lasp.colorado.edu/mms/sdc/public/datasets/](https://lasp.colorado.edu/mms/sdc/public/datasets/)
-
-### Open Data Portals
 - Open Data Slovakia: [http://opendata.sk/](http://opendata.sk/) - [https://slovak.statistics.sk/](https://slovak.statistics.sk/)
 
-# Other public lists of datasets 
+### Public lists of datasets 
 - Towards AI: [https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f](https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
 - Medium: [https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f](https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
 - Data Science Dojo: [https://datasciencedojo.com/blog/datasets-data-science-skills/](https://datasciencedojo.com/blog/datasets-data-science-skills/)
