@@ -9,7 +9,7 @@
 - eCommerce Behavior Data: https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store
 - Recommender Systems and Personalization Datasets https://cseweb.ucsd.edu/~jmcauley/datasets.html
 
-# Music Datasets
+### Music Datasets
 - MIDI paired with song names (with some inaccuracy https://www.kaggle.com/datasets/imsparsh/lakh-midi-clean
 - Last.fm Dataset https://grouplens.org/datasets/hetrec-2011/
 - Tensorflow Magenta Groove MIDI dataset https://magenta.tensorflow.org/datasets/groove - ~200 MB and ~3.11 MB respectively.
@@ -19,19 +19,19 @@
 - TensorFlow Magenta - Groove: https://magenta.tensorflow.org/datasets/groove
 - Music4All 2020: https://sites.google.com/view/contact4music4all
 
-# NLP Datasets
+### NLP Datasets
 - [Named Entity Recognition](https://www.clips.uantwerpen.be/conll2003/ner/) - max ~15 MB archived.
 - [Project Gutenberg books](https://www.gutenberg.org/browse/scores/top) - plaintext books ~0.3-3 MB each.
 - [CNN dailymail data](https://github.com/abisee/cnn-dailymail), specifically [CNN stories tokenized](https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail?tab=readme-ov-file) - ~200 MB zip, ~500 MB unpacked.
   
-# E-Monitoring Datasets
+### E-Monitoring Datasets
 - [Network traffic](https://unsw-my.sharepoint.com/personal/z5025758_ad_unsw_edu_au/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fz5025758%5Fad%5Funsw%5Fedu%5Fau%2FDocuments%2FUNSW%2DNB15%20dataset%2FCSV%20Files%2FTraining%20and%20Testing%20Sets) - variable size CSV files or PCAP. Choose any, they are smaller than 500 MB.
 - UNSW-NB15 Dataset: https://research.unsw.edu.au/projects/unsw-nb15-dataset
 - KDD Cup 1999 Data: http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
 - CERT Insider Threat Dataset: https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508099
 - HTTP Dataset CSIC 2010: https://www.isi.csic.es/dataset/
 
-# Healthcare Datasets
+### Healthcare Datasets
 - Arrythmia dataset https://physionet.org/content/mitdb/1.0.0/) - ~100 MB unpacked.
 - DrugBank: https://go.drugbank.com/releases/latest
 - Medical Imaging Datasets https://github.com/sfikas/medical-imaging-datasets
@@ -46,6 +46,10 @@
 
 # General Sources
 
+### Image Datasets: image classification is not recommended in ISA course
+- [CIFAR-10/100](https://www.cs.toronto.edu/~kriz/cifar.html) - ~161 MB archived.
+- [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) highly recommended, but is fairly large (1.34 GB archived).
+
 ### Remote Sensing Datasets
 - Land cover USA data https://landcover.usgs.gov - choose the land of any state, they are of variable size and mostly are less than 500 MB.
 - USGS Earth Explorer: https://earthexplorer.usgs.gov/
@@ -54,10 +58,6 @@
 - MODIS Data (NASA): https://modis.gsfc.nasa.gov/data/
 - NOAA National Centers for Environmental Information (NCEI): https://www.ncei.noaa.gov/
   
-### Image Datasets  
-- [CIFAR-10/100](https://www.cs.toronto.edu/~kriz/cifar.html) - ~161 MB archived.
-- [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) highly recommended, but is fairly large (1.34 GB archived).
-
 ### Public Repositories
 - UCI: [http://archive.ics.uci.edu/ml/index.php](http://archive.ics.uci.edu/ml/index.php)
 - Kaggle Datasets: [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
