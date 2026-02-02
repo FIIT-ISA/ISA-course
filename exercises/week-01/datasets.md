@@ -44,7 +44,7 @@
 - ODSC - 15 Open Datasets for Healthcare: https://medium.com/@ODSC/15-open-datasets-for-healthcare-830b19980d9
 
 
-# Image Datasets: image classification is not recommended in ISA course
+# Image Datasets: image classification is not recommended in the ISA course
 - [CIFAR-10/100](https://www.cs.toronto.edu/~kriz/cifar.html) - ~161 MB archived.
 - [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) highly recommended, but is fairly large (1.34 GB archived).
 
