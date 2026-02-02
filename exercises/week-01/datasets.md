@@ -7,22 +7,23 @@
 - Amazon Product Data (1996-2014): http://jmcauley.ucsd.edu/data/amazon/links.html
 - Recommender Systems and Personalization Datasets: https://cseweb.ucsd.edu/~jmcauley/datasets.html
 - eCommerce Behavior Data: https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store
-- Recommender Systems and Personalization Datasets https://cseweb.ucsd.edu/~jmcauley/datasets.html
+- **Recommender Systems and Personalization Datasets https://cseweb.ucsd.edu/~jmcauley/datasets.html**
 
 ### Music Datasets
 - MIDI paired with song names (with some inaccuracy https://www.kaggle.com/datasets/imsparsh/lakh-midi-clean
 - Last.fm Dataset https://grouplens.org/datasets/hetrec-2011/
+- https://freemidi.org/
+- https://muted.io/drum-patterns/
 - Tensorflow Magenta Groove MIDI dataset https://magenta.tensorflow.org/datasets/groove - ~200 MB and ~3.11 MB respectively.
 - Million Song Dataset: http://millionsongdataset.com/
 - Kaggle Scrapped Lyrics from 6 Genres: https://www.kaggle.com/neisse/scrapped-lyrics-from-6-genres?select=artists-data.csv
 - Kern Scores: https://kern.humdrum.org/cgi-bin/browse?l=essen%2Feuropa%2Fdeutschl
-- TensorFlow Magenta - Groove: https://magenta.tensorflow.org/datasets/groove
 - Music4All 2020: https://sites.google.com/view/contact4music4all
 
 ### NLP Datasets
-- [Named Entity Recognition](https://www.clips.uantwerpen.be/conll2003/ner/) - max ~15 MB archived.
-- [Project Gutenberg books](https://www.gutenberg.org/browse/scores/top) - plaintext books ~0.3-3 MB each.
-- [CNN dailymail data](https://github.com/abisee/cnn-dailymail), specifically [CNN stories tokenized](https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail?tab=readme-ov-file) - ~200 MB zip, ~500 MB unpacked.
+- Named Entity Recognition https://www.clips.uantwerpen.be/conll2003/ner/ - max ~15 MB archived.
+- Project Gutenberg books https://www.gutenberg.org/browse/scores/top - plaintext books ~0.3-3 MB each.
+- CNN dailymail data https://github.com/abisee/cnn-dailymail, specifically CNN stories tokenized https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail?tab=readme-ov-file - ~200 MB zip, ~500 MB unpacked.
   
 ### E-Monitoring Datasets
 - [Network traffic](https://unsw-my.sharepoint.com/personal/z5025758_ad_unsw_edu_au/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fz5025758%5Fad%5Funsw%5Fedu%5Fau%2FDocuments%2FUNSW%2DNB15%20dataset%2FCSV%20Files%2FTraining%20and%20Testing%20Sets) - variable size CSV files or PCAP. Choose any, they are smaller than 500 MB.
@@ -45,8 +46,8 @@
 
 
 # Image Datasets: image classification is not recommended in the ISA course
-- [CIFAR-10/100](https://www.cs.toronto.edu/~kriz/cifar.html) - ~161 MB archived.
-- [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) highly recommended, but is fairly large (1.34 GB archived).
+- CIFAR-10/100 https://www.cs.toronto.edu/~kriz/cifar.html - ~161 MB archived.
+- CelebA https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html highly recommended, but is fairly large (1.34 GB archived).
 
 ### Remote Sensing Datasets
 - Land cover USA data https://landcover.usgs.gov - choose the land of any state, they are of variable size and mostly are less than 500 MB.
@@ -57,17 +58,18 @@
 - NOAA National Centers for Environmental Information (NCEI): https://www.ncei.noaa.gov/
   
 # Public Repositories: ML-oriented generic data
-- UCI: [http://archive.ics.uci.edu/ml/index.php](http://archive.ics.uci.edu/ml/index.php)
-- Kaggle Datasets: [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
-- Google Dataset Search: [https://datasetsearch.research.google.com/](https://datasetsearch.research.google.com/)
+- UCI: http://archive.ics.uci.edu/ml/index.php
+- Kaggle Datasets: https://www.kaggle.com/datasets
+- Google Dataset Search: https://datasetsearch.research.google.com/
 
 ### Science and Research, Open Data
-- CERN: [http://opendata.cern.ch/](http://opendata.cern.ch/)
-- NASA: [https://data.nasa.gov/](https://data.nasa.gov/)
-- LASP (Laboratory for Atmospheric and Space Physics): [https://lasp.colorado.edu/mms/sdc/public/datasets/](https://lasp.colorado.edu/mms/sdc/public/datasets/)
-- Open Data Slovakia: [http://opendata.sk/](http://opendata.sk/) - [https://slovak.statistics.sk/](https://slovak.statistics.sk/)
+- CERN: http://opendata.cern.ch/
+- NASA: https://data.nasa.gov/
+- LASP (Laboratory for Atmospheric and Space Physics): https://lasp.colorado.edu/mms/sdc/public/datasets/
+- Open Data Slovakia: http://opendata.sk/
+- https://slovak.statistics.sk/
 
 ### Public lists of datasets 
-- Towards AI: [https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f](https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
-- Medium: [https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f](https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
-- Data Science Dojo: [https://datasciencedojo.com/blog/datasets-data-science-skills/](https://datasciencedojo.com/blog/datasets-data-science-skills/)
+- Towards AI: https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f
+- Medium: https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f
+- Data Science Dojo: https://datasciencedojo.com/blog/datasets-data-science-skills/
