@@ -7,6 +7,7 @@
 - Amazon Product Data (1996-2014): http://jmcauley.ucsd.edu/data/amazon/links.html
 - Recommender Systems and Personalization Datasets: https://cseweb.ucsd.edu/~jmcauley/datasets.html
 - eCommerce Behavior Data: https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store
+- Recommender Systems and Personalization Datasets https://cseweb.ucsd.edu/~jmcauley/datasets.html#multi_aspect
 
 # Music Datasets
 - MIDI paired with song names (with some inaccuracy https://www.kaggle.com/datasets/imsparsh/lakh-midi-clean
