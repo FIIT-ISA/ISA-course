@@ -1,7 +1,8 @@
 # Recommender System (E-commerce)
 - **Recommender Systems and Personalization Datasets https://cseweb.ucsd.edu/~jmcauley/datasets.html**
 - **AMiner Research Labs https://www.aminer.cn/open/dataset**
-  
+
+### Classic RecSys datasets
 - Movielens https://grouplens.org/datasets/movielens/ - at least 1M = 63 MB zip. 
 - TMDB movie metadata https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata - 9 MB zip, ~40 MB unpacked.
 - Amazon reviews 2023 https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/review_categories/All_Beauty.jsonl.gz - Amazon reviews 2023, All beauty product reviews category - 40 MB zip, ~300 MB unpacked.
