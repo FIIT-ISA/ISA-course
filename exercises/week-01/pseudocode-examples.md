@@ -28,8 +28,6 @@ predictions = model.test(testset)
 accuracy.rmse(predictions)
 ```
 
----
-
 # Content-Based Recommendation
 #### **Datasets:**
 - IMDb Dataset
@@ -66,7 +64,6 @@ def recommend(movie_title, cosine_sim=cosine_sim):
 print(recommend('The Godfather'))
 ```
 
----
 
 # Hybrid Models
 #### **Datasets:**
@@ -126,6 +123,7 @@ recommendations = model.recommend(user_id, user_item_matrix[user_id])
 print("Recommendations:", recommendations)
 ```
 
+
 # Sequential/Session-Based Models
 #### **Datasets:**
 - Spotify Million Playlist
@@ -156,6 +154,7 @@ model = Sequential([
 model.compile(optimizer='adam', loss='sparse_categorical_crossentropy')
 model.fit(X, y, epochs=10)
 ```
+
 
 # Graph-Based Recommendation
 #### **Datasets:**
