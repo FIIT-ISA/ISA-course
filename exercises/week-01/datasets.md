@@ -1,4 +1,5 @@
 # Recommender System (E-commerce)
+- **Recommender Systems and Personalization Datasets https://cseweb.ucsd.edu/~jmcauley/datasets.html**
 - Movielens https://grouplens.org/datasets/movielens/ - at least 1M = 63 MB zip. 
 - TMDB movie metadata https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata - 9 MB zip, ~40 MB unpacked.
 - Amazon reviews 2023 https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/review_categories/All_Beauty.jsonl.gz - Amazon reviews 2023, All beauty product reviews category - 40 MB zip, ~300 MB unpacked.
@@ -7,7 +8,6 @@
 - Amazon Product Data (1996-2014): http://jmcauley.ucsd.edu/data/amazon/links.html
 - Recommender Systems and Personalization Datasets: https://cseweb.ucsd.edu/~jmcauley/datasets.html
 - eCommerce Behavior Data: https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store
-- **Recommender Systems and Personalization Datasets https://cseweb.ucsd.edu/~jmcauley/datasets.html**
 
 ### Music Datasets
 - MIDI paired with song names (with some inaccuracy https://www.kaggle.com/datasets/imsparsh/lakh-midi-clean
@@ -69,7 +69,7 @@
 - Open Data Slovakia: http://opendata.sk/
 - https://slovak.statistics.sk/
 
-### Public lists of datasets 
+### Other public lists of datasets 
 - Towards AI: https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f
 - Medium: https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f
 - Data Science Dojo: https://datasciencedojo.com/blog/datasets-data-science-skills/
