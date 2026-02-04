@@ -47,7 +47,7 @@
 
 # Image classification task is not recommended in ISA
 - CIFAR-10/100 https://www.cs.toronto.edu/~kriz/cifar.html - ~161 MB archived.
-- CelebA https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html highly recommended, but is fairly large (1.34 GB archived).
+- CelebA https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html fairly large dataset (1.34 GB archived).
 
 ### Remote Sensing Datasets
 - Land cover USA data https://landcover.usgs.gov - choose the land of any state, they are of variable size and mostly are less than 500 MB.
