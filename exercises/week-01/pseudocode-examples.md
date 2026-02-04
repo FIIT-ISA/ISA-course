@@ -16,7 +16,7 @@ from surprise import SVD, Dataset, Reader
 from surprise.model_selection import train_test_split, accuracy
 
 # Load MovieLens Dataset
-data = Dataset.load_builtin('ml-100k')
+data = Dataset.load_data('ml-1m')
 trainset, testset = train_test_split(data, test_size=0.2)
 
 # Train SVD model
