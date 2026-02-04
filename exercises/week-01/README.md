@@ -1,4 +1,9 @@
 
+# Recommender Systems
+- List of datasets https://github.com/FIIT-ISA/ISA-course/blob/main/exercises/week-01/datasets.md
+- List of metrics https://github.com/FIIT-ISA/ISA-course/blob/main/exercises/week-01/metrics.md
+- Pseudocode examples of RecSys https://github.com/FIIT-ISA/ISA-course/blob/main/exercises/week-01/pseudocode-examples.md
+
 # Deployment of ML/DL models: Examples ready-to-use
 
 - https://github.com/FIIT-ISA/ISA-ML-in-deployment-numbers
