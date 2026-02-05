@@ -23,11 +23,6 @@
 - Kern Scores: https://kern.humdrum.org/cgi-bin/browse?l=essen%2Feuropa%2Fdeutschl
 - Music4All 2020: https://sites.google.com/view/contact4music4all
 
-### NLP Datasets
-- Named Entity Recognition https://www.clips.uantwerpen.be/conll2003/ner/ - max ~15 MB archived.
-- Project Gutenberg books https://www.gutenberg.org/browse/scores/top - plaintext books ~0.3-3 MB each.
-- CNN dailymail data https://github.com/abisee/cnn-dailymail, specifically CNN stories tokenized https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail?tab=readme-ov-file - ~200 MB zip, ~500 MB unpacked.
-  
 ### E-Monitoring Datasets
 - [Network traffic](https://unsw-my.sharepoint.com/personal/z5025758_ad_unsw_edu_au/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fz5025758%5Fad%5Funsw%5Fedu%5Fau%2FDocuments%2FUNSW%2DNB15%20dataset%2FCSV%20Files%2FTraining%20and%20Testing%20Sets) - variable size CSV files or PCAP. Choose any, they are smaller than 500 MB.
 - UNSW-NB15 Dataset: https://research.unsw.edu.au/projects/unsw-nb15-dataset
@@ -47,6 +42,10 @@
 - Lionbridge AI - 18 Free Life Sciences & Medical Datasets: https://lionbridge.ai/datasets/18-free-life-sciences-medical-datasets-for-machine-learning/
 - ODSC - 15 Open Datasets for Healthcare: https://medium.com/@ODSC/15-open-datasets-for-healthcare-830b19980d9
 
+### NLP Datasets: recommended for subtasks
+- Named Entity Recognition https://www.clips.uantwerpen.be/conll2003/ner/ - max ~15 MB archived.
+- Project Gutenberg books https://www.gutenberg.org/browse/scores/top - plaintext books ~0.3-3 MB each.
+- CNN dailymail data https://github.com/abisee/cnn-dailymail, specifically CNN stories tokenized https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail?tab=readme-ov-file - ~200 MB zip, ~500 MB unpacked.
 
 # Image classification task is not recommended in ISA
 - CIFAR-10/100 https://www.cs.toronto.edu/~kriz/cifar.html - ~161 MB archived.
