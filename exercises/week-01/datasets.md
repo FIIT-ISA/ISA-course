@@ -23,13 +23,6 @@
 - Kern Scores: https://kern.humdrum.org/cgi-bin/browse?l=essen%2Feuropa%2Fdeutschl
 - Music4All 2020: https://sites.google.com/view/contact4music4all
 
-### E-Monitoring Datasets
-- [Network traffic](https://unsw-my.sharepoint.com/personal/z5025758_ad_unsw_edu_au/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fz5025758%5Fad%5Funsw%5Fedu%5Fau%2FDocuments%2FUNSW%2DNB15%20dataset%2FCSV%20Files%2FTraining%20and%20Testing%20Sets) - variable size CSV files or PCAP. Choose any, they are smaller than 500 MB.
-- UNSW-NB15 Dataset: https://research.unsw.edu.au/projects/unsw-nb15-dataset
-- KDD Cup 1999 Data: http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
-- CERT Insider Threat Dataset: https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508099
-- HTTP Dataset CSIC 2010: https://www.isi.csic.es/dataset/
-
 ### Healthcare Datasets
 - Arrythmia dataset https://physionet.org/content/mitdb/1.0.0/) - ~100 MB unpacked.
 - DrugBank: https://go.drugbank.com/releases/latest
@@ -41,6 +34,13 @@
 - MedMNIST: https://medmnist.com/
 - Lionbridge AI - 18 Free Life Sciences & Medical Datasets: https://lionbridge.ai/datasets/18-free-life-sciences-medical-datasets-for-machine-learning/
 - ODSC - 15 Open Datasets for Healthcare: https://medium.com/@ODSC/15-open-datasets-for-healthcare-830b19980d9
+
+### E-Monitoring Datasets
+- [Network traffic](https://unsw-my.sharepoint.com/personal/z5025758_ad_unsw_edu_au/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fz5025758%5Fad%5Funsw%5Fedu%5Fau%2FDocuments%2FUNSW%2DNB15%20dataset%2FCSV%20Files%2FTraining%20and%20Testing%20Sets) - variable size CSV files or PCAP. Choose any, they are smaller than 500 MB.
+- UNSW-NB15 Dataset: https://research.unsw.edu.au/projects/unsw-nb15-dataset
+- KDD Cup 1999 Data: http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
+- CERT Insider Threat Dataset: https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508099
+- HTTP Dataset CSIC 2010: https://www.isi.csic.es/dataset/
 
 ### NLP Datasets: recommended for subtasks
 - Named Entity Recognition https://www.clips.uantwerpen.be/conll2003/ner/ - max ~15 MB archived.
