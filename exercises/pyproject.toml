@@ -1,0 +1,36 @@
+[project]
+name = "exercises"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.6"
+dependencies = [
+    "category-encoders>=2.9.0",
+    "dash>=4.0.0",
+    "gensim>=4.4.0",
+    "graphviz>=0.21",
+    "h5py>=3.15.1",
+    "ipywidgets>=8.1.8",
+    "jupyterlab>=4.5.3",
+    "keras>=3.13.2",
+    "keras-tuner>=1.4.8",
+    "matplotlib>=3.10.8",
+    "mlxtend>=0.24.0",
+    "nltk>=3.9.2",
+    "notebook>=7.5.3",
+    "numpy>=2.4.2",
+    "pandas>=3.0.0",
+    "pandasql>=0.7.3",
+    "plotly>=6.5.2",
+    "pyarrow>=23.0.0",
+    "pydot>=4.0.1",
+    "python-dateutil>=2.9.0.post0",
+    "scikit-learn>=1.8.0",
+    "scikit-optimize>=0.10.2",
+    "scipy>=1.17.0",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.6",
+    "sympy>=1.14.0",
+    "tensorflow>=2.20.0",
+    "wandb>=0.24.2",
+]

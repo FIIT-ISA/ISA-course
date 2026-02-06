@@ -35,3 +35,11 @@
 > If the submission deadline is missed, late submission is possible **one week later**
 > with a **50% penalty**.
 > Later submission will not be accepted. Failure to submit any phase of the project or activities will result in not meeting the prerequisites for the exam (N).
+
+## Installation
+
+1. [Install ](https://docs.astral.sh/uv/getting-started/installation/) `uv` - universal package manager
+2. Run `uv sync` 
+3. Activate venv `source .venv/bin/activate`
+4. Done
+
