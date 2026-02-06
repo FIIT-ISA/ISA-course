@@ -1,0 +1,28 @@
+{
+  "name": "ISA Course (Python + Jupyter)",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  "workspaceFolder": "/workspaces/ISA-course",
+  "workspaceMount": "source=${localWorkspaceFolder},target=/workspaces/ISA-course,type=bind,consistency=cached",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter",
+        "ms-toolsai.jupyter-keymap",
+        "ms-toolsai.jupyter-renderers",
+        "charliermarsh.ruff"
+      ],
+      "settings": {
+        "python.defaultInterpreterPath": "/workspaces/ISA-course/exercises/.venv/bin/python",
+        "jupyter.notebookFileRoot": "${workspaceFolder}"
+      }
+    }
+  },
+  "postCreateCommand": "cd /workspaces/ISA-course/exercises && uv sync",
+  "remoteUser": "vscode",
+  "features": {}
+}

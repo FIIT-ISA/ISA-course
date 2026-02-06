@@ -10,6 +10,7 @@ dependencies = [
     "gensim>=4.4.0",
     "graphviz>=0.21",
     "h5py>=3.15.1",
+    "ipykernel>=6.29.0",
     "ipywidgets>=8.1.8",
     "jupyterlab>=4.5.3",
     "keras>=3.13.2",
