@@ -1,17 +1,8 @@
-# Recommendation with NLP and DL techniques
-- Name Entity Recognition (NER) with Spacy
-- Text summarization
-    - Extractive Summarization
-    - Abstractive Summarization using pretrained model(s) - BERT
-- Transformer-based Architecture
-    - Applying BERT for sentiment analysis
-- GPT (Generative Pre-Trained Transformer)
-    - Using GPT model for generating text
-
-## Refresh from [IAU_B](https://github.com/FIIT-IAU/IAU-course)
-
-### NLP with ML techniques
-
-- [Tokenization, TF-IDF, Stemming, Cosine similarity, Grid search](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-09/IAU_01_natural_language_processing_with_machine_learning.ipynb)
-- [Multinomial Naive Bayes, SGDClassifier, SVM](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-09/IAU_01_natural_language_processing_with_machine_learning.ipynb)
-- [Sentiment Analysis in Text with NLTK](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-09/IAU_02_sentiment_analysis_in_text.ipynb)
+# Model-based Collaborative Filtering with Deep Learning
+- Matrix Factorization for RecSys
+- Embbeding layers for encoding
+    - User Embeddings: Each user ID is mapped to a vector that captures the user's preferences and characteristics.
+    - Item Embeddings: Similarly, each item ID is mapped to a vector that represents the item's features.
+- Customized DL model
+- PyTorch data loader
+- Ranking by integrating a trained MatrixFactorization model with KMeans clustering to generate movie recommendations
