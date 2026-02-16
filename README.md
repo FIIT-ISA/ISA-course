@@ -27,7 +27,7 @@ By completing the course, students will gain knowledge about the development and
 
 ### Course textbook / Base literature 
 
-- NGUYEN, G., LYTVYN, O., 2026. **Foundations of Generative AI and Applied Machine Learning**. Spektrum STU Publishing, ISBN 978-80-227-5556-6, [DOI 10.61544/VUEV8972](https://doi.org/10.61544/vnev8972), University Textbook Series, 2026. Available at FIIT STU e-library [ ELVIRA ](https://elvira.fiit.stuba.sk/) with AIS access.
+- NGUYEN, G., LYTVYN, O., 2026. **Foundations of Generative AI and Applied Machine Learning**. Spektrum STU Publishing, ISBN 978-80-227-5556-6, DOI 10.61544/VUEV8972, University Textbook Series, 2026. Available at FIIT STU e-library [ ELVIRA ](https://elvira.fiit.stuba.sk/) with AIS access.
 
 ### Recommended literature
 
