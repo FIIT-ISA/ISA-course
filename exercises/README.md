@@ -11,12 +11,12 @@
 | 3.   | [Ensemble Learning and Boosting](week-03)     | **Project assignment** |
 | 4.   | [Recommendation with ML](week-05)             |  |
 | 5.   | [Primers of Generative AI and DL](week-04)    |  |
-| 6.   | [Recommendation with NLP](week-06)            | Submission to AIS |
+| 6.   | [Collaborative Filtering with DL](week-09)       | Submission to AIS |
 | 7.   | [Attention and Embedding](week-07)            |  |
 | 8.   | [Recommendation with DL](week-08)             |  |
-| 9.   | [Collaborative Filtering with DL](week-09)    |  |
+| 9.   | [Recommendation with NLP](week-09)            |  |
 | 10.  | [Privacy preserving in data mining and data publishing](week-10)  | Submission to AIS |
-| 11.  | [Privacy preserving ML/DL](week-11)      |  |
+| 11.  | [Privacy preserving ML/DL](week-11)           |  |
 | 12.  | [Finalization](week-12)                       | Submission to AIS |
 |      |                                               |                                               |
 
