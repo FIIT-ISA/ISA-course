@@ -8,10 +8,10 @@
 | ----:| --------------------------------------------: | :--------------------------------------------|
 | 1.   | [Introduction to ML/DL Deployment](week-01)   | Organization of the exercise |
 | 2.   | [Unsupervised Learning](week-02)              |  |
-| 3.   | [Ensemble Learning and Boosting](week-03)     | **Project assignment** |
-| 4.   | [Recommendation with ML](week-05)             |  |
-| 5.   | [Primers of Generative AI and DL](week-04)    |  |
-| 6.   | [Collaborative Filtering with DL](week-09)       | Submission to AIS |
+| 3.   | [Recommendation with ML](week-03)             | **Project assignment** |
+| 4.   | [Primers of Generative AI and DL](week-04)    |  |
+| 5.   | [Ensemble Learning and Boosting](week-05)     |  |
+| 6.   | [Collaborative Filtering with DL](week-06)    | Submission to AIS |
 | 7.   | [Attention and Embedding](week-07)            |  |
 | 8.   | [Recommendation with DL](week-08)             |  |
 | 9.   | [Recommendation with NLP](week-09)            |  |
