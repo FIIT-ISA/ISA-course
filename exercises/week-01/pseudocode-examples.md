@@ -188,8 +188,8 @@ print("Recommendations:", sorted(item_similarities, key=item_similarities.get, r
 ```
 
 # Tools & Libraries
-- **General:** Pandas, NumPy
-- **Collaborative Filtering:** Surprise, Implicit
-- **Content-Based:** Scikit-learn, NLTK
+- **General:** Pandas, NumPy, ...
+- **Collaborative Filtering:** Surprise, Implicit, ...
+- **Content-Based:** Scikit-learn, NLTK, Spacy, ...
 - **Deep Learning:** TensorFlow, PyTorch
 - **Graph-Based:** NetworkX, StellarGraph, PyTorch Geometric
