@@ -10,5 +10,5 @@
 # Sequence recommendation
     - Next Buy Item Prediction
 
-# Refresh regression from [IAU_B course](https://github.com/FIIT-IAU/IAU-course)
+### Refresh regression from [IAU_B course](https://github.com/FIIT-IAU/IAU-course)
     - [COVID infection situation with ML techniques](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-09/IAU_09_DU_covid19-modeling.ipynb) 
