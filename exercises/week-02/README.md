@@ -1,4 +1,4 @@
-# User x Item interaction matrice
+# User x Item interactions
 
 ### Matrix Factorization (MF)
     - Non-Negative Matrix Factorization (NMF)
