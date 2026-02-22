@@ -1,8 +1,8 @@
 # Knowledge-Based Recommendation
 
 ## Association rule mining
-  - Apriori
-  - FP-Growth
+    - Apriori
+    - FP-Growth
 
 ## Clustering
     - K-means clustering
