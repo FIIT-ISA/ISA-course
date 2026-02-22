@@ -1,4 +1,4 @@
-# Foundation of Generative AI and Deep Learning
+# Deep Learning Primers
 
 ### Deep learning architectures ([IAU_B](https://github.com/FIIT-IAU/IAU-course) course)
 - [Convolutional Neural Network (CNN): Image classification](https://github.com/FIIT-IAU/IAU-course/tree/main/exercises/week-10)
