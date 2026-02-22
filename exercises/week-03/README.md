@@ -1,10 +1,10 @@
 # Knowledge-Based Recommendation
 
-### Association rule mining
+## Association rule mining
   - Apriori
   - FP-Growth
 
-### Clustering
+## Clustering
     - K-means clustering
     - Fuzzy k-means clustering
     - Hierarchical clustering
@@ -12,4 +12,4 @@
         - Agglomerative Clustering
     - Probabilistic Clustering
 
-### Latent Semantic Analysis (LSA)
+## Latent Semantic Analysis (LSA)
