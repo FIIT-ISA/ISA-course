@@ -1,4 +1,4 @@
-# Foundation of GenAI
+# Foundations of GenAI
 
 ## Attention
     - Neural Machine Translation (NMT) with Attention mechanism
