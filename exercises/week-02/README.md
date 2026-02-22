@@ -1,11 +1,14 @@
 # User x Item interaction matrice
-- Matrix Factorization (MF)
+
+### Matrix Factorization (MF)
     - Non-Negative Matrix Factorization (NMF)
-- Clustering
+
+### Clustering
     - K-means clustering
     - Fuzzy k-means clustering
     - Hierarchical clustering
         - Divisive Clustering
         - Agglomerative Clustering
     - Probabilistic Clustering
-- Latent Semantic Analysis (LSA)
+
+### Latent Semantic Analysis (LSA)
