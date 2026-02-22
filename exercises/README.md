@@ -15,7 +15,7 @@
 | 7.   | [Foundations of Gen AI: Attention and Embedding](week-07) |  |
 | 8.   | [Neural Recommendations](week-08)             |  |
 | 9.   | [Neural Recommendations with NLP](week-09)    |  |
-| 10.  | [Privacy preserving in data mining and data publishing](week-10)  | Submission to AIS |
+| 10.  | [Privacy preserving machine learning (PPML)](week-10)  | Submission to AIS |
 | 11.  | [Privacy preserving ML/DL](week-11)           |  |
 | 12.  | [Finalization](week-12)                       | Submission to AIS |
 |      |                                               |                                               |
