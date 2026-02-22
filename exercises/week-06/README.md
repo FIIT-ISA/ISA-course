@@ -1,5 +1,5 @@
 # Neural Collaborative Filtering
-        - Matrix Factorization for RecSys
+        - Deep Matrix Factorization (DMF)
         - Embbeding layers for encoding
             - User Embeddings: Each user ID is mapped to a vector that captures the user's preferences and characteristics.
             - Item Embeddings: Similarly, each item ID is mapped to a vector that represents the item's features.
