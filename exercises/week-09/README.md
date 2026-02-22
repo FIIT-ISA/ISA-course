@@ -1,14 +1,14 @@
-# Recommendation with NLP and DL techniques
-- Name Entity Recognition (NER) with Spacy
-- Text summarization
-    - Extractive Summarization
-    - Abstractive Summarization using pretrained model(s) - BERT
-- Transformer-based Architecture
-    - Applying BERT for sentiment analysis
-- GPT (Generative Pre-Trained Transformer)
-    - Using GPT model for generating text
+# Neural Recommendation with NLP techniques
+    - Name Entity Recognition (NER) with Spacy
+    - Text summarization
+        - Extractive Summarization
+        - Abstractive Summarization using pretrained model(s) - BERT
+    - Transformer-based Architecture
+        - Applying BERT for sentiment analysis
+    - GPT (Generative Pre-Trained Transformer)
+        - Using GPT model for generating text
 
-## Refresh from [IAU_B](https://github.com/FIIT-IAU/IAU-course)
+# Refresh from [IAU_B course](https://github.com/FIIT-IAU/IAU-course)
 
 ### NLP with ML techniques
 
