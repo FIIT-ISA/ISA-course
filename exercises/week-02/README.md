@@ -11,4 +11,4 @@
     - Next Buy Item Prediction
 
 ### Refresh regression from [IAU_B course](https://github.com/FIIT-IAU/IAU-course)
-    - [COVID infection situation with ML techniques](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-07/IAU_homework-02_covid19-modeling.ipynb) 
+    - https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-07/IAU_homework-02_covid19-modeling.ipynb
