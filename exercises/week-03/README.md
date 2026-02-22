@@ -1,12 +1,15 @@
-# Recommendation using ML techniques
+# Knowledge-Based Recommendation
 
-- Collaborative Filtering (CF)
-- Content-Based Filtering (CBF)
-- Hybrid Recommendation
-- Association rule mining: Apriori, FP-Growth
-- Next Buy Item Prediction: Naive Bayes
+### Association rule mining
+  - Apriori
+  - FP-Growth
 
+### Clustering
+    - K-means clustering
+    - Fuzzy k-means clustering
+    - Hierarchical clustering
+        - Divisive Clustering
+        - Agglomerative Clustering
+    - Probabilistic Clustering
 
-## Refresh from [IAU_B](https://github.com/FIIT-IAU/IAU-course)
-
-- [COVID infection situation with ML techniques](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-09/IAU_09_DU_covid19-modeling.ipynb) 
+### Latent Semantic Analysis (LSA)
