@@ -9,12 +9,12 @@
 | 1.   | [Introduction to ML/DL Deployment](week-01)   | Organization of the exercise |
 | 2.   | [User x Item Interaction](week-02)            |  |
 | 3.   | [Knowledge-Based Recommendation](week-03)     | **Project assignment** |
-| 4.   | [Primers of Generative AI and DL](week-04)    |  |
+| 4.   | [Primers of Deep Learning](week-04)           |  |
 | 5.   | [Ensemble Learning and Boosting](week-05)     |  |
-| 6.   | [Collaborative Filtering with DL](week-06)    | Submission to AIS |
-| 7.   | [Attention and Embedding](week-07)            |  |
-| 8.   | [Recommendation with DL](week-08)             |  |
-| 9.   | [Recommendation with NLP](week-09)            |  |
+| 6.   | [Neural Collaborative Filtering](week-06)     | Submission to AIS |
+| 7.   | [Foundations of Gen AI: Attention and Embedding](week-07) |  |
+| 8.   | [Neural Recommendations](week-08)             |  |
+| 9.   | [Neural Recommendations with NLP](week-09)    |  |
 | 10.  | [Privacy preserving in data mining and data publishing](week-10)  | Submission to AIS |
 | 11.  | [Privacy preserving ML/DL](week-11)           |  |
 | 12.  | [Finalization](week-12)                       | Submission to AIS |
