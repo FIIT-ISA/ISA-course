@@ -7,8 +7,8 @@
 | week | Exercise              | Project          |
 | ----:| --------------------------------------------: | :--------------------------------------------|
 | 1.   | [Introduction to ML/DL Deployment](week-01)   | Organization of the exercise |
-| 2.   | [Unsupervised Learning](week-02)              |  |
-| 3.   | [Recommendation with ML](week-03)             | **Project assignment** |
+| 2.   | [User x Item Interaction](week-02)            |  |
+| 3.   | [Knowledge-Based Recommendation](week-03)     | **Project assignment** |
 | 4.   | [Primers of Generative AI and DL](week-04)    |  |
 | 5.   | [Ensemble Learning and Boosting](week-05)     |  |
 | 6.   | [Collaborative Filtering with DL](week-06)    | Submission to AIS |
