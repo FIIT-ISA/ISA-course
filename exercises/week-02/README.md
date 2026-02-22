@@ -1,4 +1,4 @@
-# Unsupervised Learning
+# User x Item interaction matrice
 - Latent Semantic Analysis (LSA)
 - Matrix Factorization (MF)
     - Non-Negative Matrix Factorization (NMF)
