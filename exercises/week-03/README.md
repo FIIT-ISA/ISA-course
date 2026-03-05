@@ -12,4 +12,4 @@
         - Agglomerative Clustering
     - Probabilistic Clustering
 
-## Latent Semantic Analysis (LSA)
+## RecSys Metrics
