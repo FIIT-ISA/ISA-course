@@ -22,7 +22,7 @@ By completing the course, students will gain knowledge about the development and
 ### MS Teams
 
 <p align="center">
-    <img height=300px src="isa.png">
+    <img height=400px src="isa.png">
 </p>
 
 ### Course textbook / Base literature 
