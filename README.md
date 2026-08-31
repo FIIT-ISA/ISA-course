@@ -37,7 +37,7 @@ By completing the course, students will gain knowledge about the development and
 - AGGARWAL, C.C., 2016. [Recommender Systems](https://link.springer.com/book/10.1007/978-3-319-29659-3). Springer. ISBN 978-3-319-29657-9.  
 
 ### Notes
-Knowledge in **Introduction to Data Science** [course Intelligent Data Analysis (IAU_B) @ FIIT STU](https://github.com/FIIT-IAU/IAU-course) at the level of a graduate of the Bachelor's study program in Computer Science is assumed.
+Knowledge in **Introduction to Data Science** - [Intelligent Data Analysis (IAU_B) @ FIIT STU](https://github.com/FIIT-IAU/IAU-course) at the level of a graduate of the Bachelor's study program in Computer Science is assumed.
 
 <p align="left">
     <img height=60px src="https://giangzuzana.github.io/images/logo-funding.png">
