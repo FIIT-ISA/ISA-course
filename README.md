@@ -5,7 +5,6 @@
     <img height=440px width=700px src="isa.png">
 </p>
 
-## Foundations of Generative AI and Applied Machine Learning
 - Neural Recommender Systems
 - Machine Learning Systems
 - Privacy-Preserving Machine Learning
