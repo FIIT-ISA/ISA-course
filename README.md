@@ -44,5 +44,5 @@ Knowledge in **Introduction to Data Science** [course Intelligent Data Analysis 
     <img height=60px src="https://giangzuzana.github.io/images/logo-funding.png">
 </p>
 <p align="left">
-    <img height=80px src="https://giangzuzana.github.io/images/logo.png">
+    <img height=60px src="https://giangzuzana.github.io/images/logo.png">
 </p>
