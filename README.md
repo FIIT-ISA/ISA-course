@@ -39,7 +39,7 @@ By completing the course, students will gain knowledge about the development and
 ### Notes
 Knowledge in **Introduction to Data Science** [course Intelligent Data Analysis (IAU_B) @ FIIT STU](https://github.com/FIIT-IAU/IAU-course) at the level of a graduate of the Bachelor's study program in Computer Science is assumed.
 
-### Funding and support
+### Support
 <p align="left">
     <img height=60px src="https://giangzuzana.github.io/images/logo-funding.png">
 </p>
