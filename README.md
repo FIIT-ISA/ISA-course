@@ -43,5 +43,5 @@ Knowledge in **Introduction to Data Science** - [Intelligent Data Analysis (IAU_
     <img height=60px src="https://giangzuzana.github.io/images/logo-funding.png">
 </p>
 <p align="left">
-    <img height=60px src="https://giangzuzana.github.io/images/logo.png">
+    <img height=80px src="https://giangzuzana.github.io/images/logo.png">
 </p>
