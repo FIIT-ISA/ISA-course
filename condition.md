@@ -1,4 +1,4 @@
-## Intelligent System Applications / Aplikácie inteligentných systémov - ISA_I
+## Foundations of GenAI and Applied ML - Intelligent System Applications (ISA_I)
 **Typ štúdia:** inžinierské  
 **Počet kreditov:** 6  
 **Semester:** letný     
