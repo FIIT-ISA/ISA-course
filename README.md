@@ -1,4 +1,4 @@
-#  Foundations of Generative AI and Applied Machine Learning
+#  Foundations of GenAI and Applied ML
 ## Intelligent System Applications (ISA_I) - Aplikácie inteligentných systémov 
 
 <p align="center">
